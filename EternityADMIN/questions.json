@@ -1,0 +1,204 @@
+{
+    "direito_constitucional_fixacao": [
+        {
+            "id": 1,
+            "question": "Considerando os principios que regem as relações internacionais da República Federativa do Brasil, inclusos no Artigo 4º do inciso I ao X, assinale a assertiva que não apresenta nenhuma incoerência com o regido pelo referido Artigo.",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "O Brasil ao verificar que um Estado estrangeiro está tentando reger e impor, no território brasileiro, determinadas medidas internacionais regidas em tratado, ele irá proporcionar todo e qualquer apoio aos envolvidos.",
+                "Dois ativistas políticos de um Estado estrangeiro qualquer solicitaram asilo político em território brasileiro devido à perseguição e censura que sofrem. O Brasil deve conceder asilo à estes ativistas e proporcionar garantias e direitos aos referidos ativistas.",
+                "O Brasil sempre deve procurar resolver conflitos estrangeiros entre Estados de maneira bélica envolvendo intervenções militares em território estrangeiro.",
+                "Um Estado estrangeiro pode ter sua cultura e sociedade moldada por interesses do governo Brasileiro, com a finalidade de evitar conflitos sociais culturais entre as massas populares."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Alternativa correta é letra B, pois, afere com precisão o inciso que destaca a concessão de Asilo Político. Alternativa 'A' fere o inciso que define a questão da independencia Nacional. Alternativa 'C' fere 2 incisos, que regem a defesa da paz e o principio da não intervenção. A alternativa 'D' fere o principio da auto-determinação dos povos.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        }
+    ],
+    "direito_constitucional_concursos": [
+        {
+            "id": 1,
+            "question": "Considerando os principios que regem as relações internacionais da República Federativa do Brasil, inclusos no Artigo 4º do inciso I ao X, assinale a assertiva que não apresenta nenhuma incoerência com o regido pelo referido Artigo.",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "O Brasil ao verificar que um Estado estrangeiro está tentando reger e impor, no território brasileiro, determinadas medidas internacionais regidas em tratado, ele irá proporcionar todo e qualquer apoio aos envolvidos.",
+                "Dois ativistas políticos de um Estado estrangeiro qualquer solicitaram asilo político em território brasileiro devido à perseguição e censura que sofrem. O Brasil deve conceder asilo à estes ativistas e proporcionar garantias e direitos aos referidos ativistas.",
+                "O Brasil sempre deve procurar resolver conflitos estrangeiros entre Estados de maneira bélica envolvendo intervenções militares em território estrangeiro.",
+                "Um Estado estrangeiro pode ter sua cultura e sociedade moldada por interesses do governo Brasileiro, com a finalidade de evitar conflitos sociais culturais entre as massas populares."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Alternativa correta é letra B, pois, afere com precisão o inciso que destaca a concessão de Asilo Político. Alternativa 'A' fere o inciso que define a questão da independencia Nacional. Alternativa 'C' fere 2 incisos, que regem a defesa da paz e o principio da não intervenção. A alternativa 'D' fere o principio da auto-determinação dos povos.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        }
+    ],
+    "matematica": [
+        {
+            "id": 1,
+            "question": "Dada a função f(x) = x² - 4x + 3, determine as raízes da equação f(x) = 0.",
+            "questionImage": "",
+            "optionImages": ["", "", "", "",""],
+            "options": [
+                "x = -1 e x = -3",
+                "x = 3 e x = 1",
+                "x = 2 e x = -2",
+                "x = 0 e x = 4",
+                "x = 1/2 e x = 3"
+            ],
+            "correctAnswer": 1,
+            "explanation": "As raízes da função são encontradas utilizando a fórmula de Bhaskara. Substituindo os valores, temos x = 3 e x = 1.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        },
+        {
+            "id": 2,
+            "question": "Qual é o valor do vértice (x, y) da parábola definida pela função f(x) = -2x² + 8x - 6?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "(2, -2)",
+                "(1, 0)",
+                "(2, 2)",
+                "(0, -6)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "O x do vértice é dado por -b/2a, e o y substituindo esse x na função. Assim, o vértice é (2, -2).",
+            "tags": ["matemática", "parábola", "vértice"]
+        },
+        {
+            "id": 3,
+            "question": "Determine o valor de f(2) para a função f(x) = 3x² - 5x + 2.",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Substituindo x = 2 na função: f(2) = 3(2)² - 5(2) + 2 = 4.",
+            "tags": ["matemática", "função quadrática", "valor numérico"]
+        },
+        {
+            "id": 4,
+            "question": "Qual é o coeficiente angular da reta tangente à parábola f(x) = x² - x - 2 no ponto x = 1?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "-1",
+                "1",
+                "0",
+                "3"
+            ],
+            "correctAnswer": 1,
+            "explanation": "O coeficiente angular da reta tangente é dado pela derivada f'(x). Derivando, f'(x) = 2x - 1. Para x = 1, f'(1) = 1.",
+            "tags": ["matemática", "derivada", "reta tangente"]
+        },
+        {
+            "id": 5,
+            "question": "A função f(x) = x² - 4x + 5 tem um valor mínimo ou máximo? Qual é este valor?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Mínimo, 1",
+                "Máximo, 1",
+                "Mínimo, 2",
+                "Máximo, 2"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A parábola abre para cima (a > 0), portanto tem um mínimo. Calculando o vértice, o valor mínimo é 1.",
+            "tags": ["matemática", "parábola", "valor mínimo"]
+        },
+        {
+            "id": 6,
+            "question": "A função f(x) = 2x² - 8x + 6 corta o eixo x em quais pontos?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "(1, 0) e (3, 0)",
+                "(-1, 0) e (-3, 0)",
+                "(0, 2) e (0, 3)",
+                "(2, 0) e (1, 0)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Calculando as raízes de 2x² - 8x + 6 = 0 por Bhaskara, obtemos x = 1 e x = 3.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        },
+        {
+            "id": 7,
+            "question": "O valor de Δ para a função f(x) = -x² + 6x - 8 é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "4",
+                "0",
+                "-4",
+                "16"
+            ],
+            "correctAnswer": 3,
+            "explanation": "O Δ é dado por b² - 4ac. Substituindo: Δ = 6² - 4(-1)(-8) = 16.",
+            "tags": ["matemática", "equação quadrática", "discriminante"]
+        },
+        {
+            "id": 8,
+            "question": "A função f(x) = 2x² + 4x + 3 é positiva para quais valores de x?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "x < -3 e x > -1",
+                "-3 < x < -1",
+                "Para todos os valores de x",
+                "Nenhum valor de x"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Como Δ < 0, a função não tem raízes reais e o valor de a > 0, então a função é sempre positiva.",
+            "tags": ["matemática", "função quadrática", "conjunto solução"]
+        },
+        {
+            "id": 9,
+            "question": "Se a função f(x) = x² + 6x + c toca o eixo x em apenas um ponto, qual é o valor de c?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "9",
+                "0",
+                "36",
+                "-9"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Para que toque o eixo x, Δ deve ser zero. Δ = b² - 4ac = 0 → 6² - 4(1)c = 0. Assim, c = 9.",
+            "tags": ["matemática", "equação quadrática", "discriminante"]
+        },
+        {
+            "id": 10,
+            "question": "Qual é a soma das raízes da função f(x) = 3x² - 9x + 6?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "3",
+                "-3",
+                "2",
+                "0"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A soma das raízes de uma equação quadrática é dada por -b/a. Assim, soma = -(-9)/3 = 3.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        },
+        {
+            "id": 11,
+            "question": "Considerando as alternativas abaixo, assinale aquela que tiver corretamente relacionado a função do segundo grau e o seu respectivo gráfico",
+            "questionImage": "",
+            "optionImages": ["https://cdn.discordapp.com/attachments/969364366464000010/1306994406301106247/image.png?ex=6738b0e5&is=67375f65&hm=d16aaa21d67cf33fc1d0e19b85ac2db34768a01a2d225c60f1597460eb08045f&", "https://cdn.discordapp.com/attachments/969364366464000010/1306995959934357524/image.png?ex=6738b257&is=673760d7&hm=12b531ed2bcf9661e30a35fb82fe8188d67d0795ebcfa550bd0d67f82f90c68c&", "https://cdn.discordapp.com/attachments/969364366464000010/1306996515088240734/image.png?ex=6738b2dc&is=6737615c&hm=c834754ff948e3e4b262eda15bd5b23ac4517d212e1bc45c90374369f3141f9d&", "https://cdn.discordapp.com/attachments/969364366464000010/1306996651818221599/image.png?ex=6738b2fc&is=6737617c&hm=dff08d2941046f4c09d14b8136bd892a9fedffdd6ce19b7131045f3c5c792c9c&"],
+            "options": [
+                "x²+2x-1",
+                "2x²+5x-10",
+                "2x²+2",
+                "4x²+2x"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A parábola abre para cima (a > 0), portanto tem um mínimo. Calculando o vértice, o valor mínimo é 1.",
+            "tags": ["matemática", "função quadrática", "gráfico"]
+        }   
+    ]
+}

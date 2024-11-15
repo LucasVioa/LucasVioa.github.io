@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Admin - Question Management</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/toggle.css" type="text/css">
+    <link rel="stylesheet" href="css/images.css">
+    <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+    <header>
+        <h1>Quiz Question Management</h1>
+    </header>
+    <nav class="navbar">
+        <ul>
+            <li class="navli"><a href="index.html">Home</a></li>
+            <li class="navli"><a href="questoes.html">Questions</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div class="admin-panel">
+            <h2>Add/Edit Question</h2>
+            <form id="question-form" class="question-form">
+                <div class="form-group">
+                    <label for="question-text">Question Text:</label>
+                    <textarea id="question-text" required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="question-image-upload">Question Image (optional):</label>
+                    <input type="file" id="question-image-upload" accept="image/*">
+                    <div id="question-image-error" class="error"></div>
+                    <img id="question-image-preview" style="display: none; max-width: 300px;">
+                </div>
+
+                <div class="options-container">
+                    <h3>Answer Options</h3>
+                    <div class="option-group">
+                        <div class="form-group" id="option-1">
+                            <label for="option-1-text">Option A:</label>
+                            <textarea id="option-1-text" required></textarea>
+                            <input type="file" class="option-image-upload" id="option-1-image" accept="image/*">
+                            <div id="option-image-error-0" class="error"></div>
+                            <img id="option-image-preview-0" style="display: none; max-width: 200px;">
+                        </div>
+                        <div class="form-group" id="option-2">
+                            <label for="option-2-text">Option B:</label>
+                            <textarea id="option-2-text" required></textarea>
+                            <input type="file" class="option-image-upload" id="option-2-image" accept="image/*">
+                            <div id="option-image-error-1" class="error"></div>
+                            <img id="option-image-preview-1" style="display: none; max-width: 200px;">
+                        </div>
+                        <div class="form-group" id="option-3">
+                            <label for="option-3-text">Option C:</label>
+                            <textarea id="option-3-text" required></textarea>
+                            <input type="file" class="option-image-upload" id="option-3-image" accept="image/*">
+                            <div id="option-image-error-2" class="error"></div>
+                            <img id="option-image-preview-2" style="display: none; max-width: 200px;">
+                        </div>
+                        <div class="form-group" id="option-4">
+                            <label for="option-4-text">Option D:</label>
+                            <textarea id="option-4-text" required></textarea>
+                            <input type="file" class="option-image-upload" id="option-4-image" accept="image/*">
+                            <div id="option-image-error-3" class="error"></div>
+                            <img id="option-image-preview-3" style="display: none; max-width: 200px;">
+                        </div>
+                        <div class="form-group" id="option-5">
+                            <label for="option-5-text">Option E:</label>
+                            <textarea id="option-5-text" required></textarea>
+                            <input type="file" class="option-image-upload" id="option-5-image" accept="image/*">
+                            <div id="option-image-error-4" class="error"></div>
+                            <img id="option-image-preview-4" style="display: none; max-width: 200px;">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="correct-answer">Correct Answer:</label>
+                    <select id="correct-answer" required>
+                        <option value="0">A</option>
+                        <option value="1">B</option>
+                        <option value="2">C</option>
+                        <option value="3">D</option>
+                        <option value="4">E</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="explanation">Explanation:</label>
+                    <textarea id="explanation" required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="category">Category:</label>
+                    <select id="category" required>
+                        <option value="">Select a category</option>
+                        <option value="direito_constitucional_fixacao">Direito Constitucional Fixação</option>
+                        <option value="direito_constitucional_concursos">Direito Constitucional Concursos</option>
+                        <option value="direito_penal_fixacao">Direito Penal Fixação</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="tags">Tags:</label>
+                    <input type="text" id="tags" placeholder="Enter tags separated by commas">
+                    <div class="hint">Enter tags separated by commas (e.g., math, algebra, equations)</div>
+                </div>
+
+                <button type="submit" class="btn">Save Question</button>
+            </form>
+        </div>
+    </main>
+
+    <script src="js/image-upload.js"></script>
+    <script src="js/admin.js"></script>
+</body>
+</html>
