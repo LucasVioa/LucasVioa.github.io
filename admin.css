@@ -1,0 +1,57 @@
+/* Admin panel styles */
+.admin-panel {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.question-form .form-group {
+    margin-bottom: 20px;
+}
+
+.question-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.question-form textarea {
+    width: 100%;
+    min-height: 100px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.question-form .option-group {
+    margin-top: 20px;
+}
+
+.question-form .option-image-upload {
+    margin-top: 10px;
+}
+
+.error {
+    color: #dc3545;
+    margin-top: 5px;
+    font-size: 0.9em;
+}
+
+.preview-container {
+    margin-top: 10px;
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+    .admin-panel {
+        margin: 10px;
+        padding: 15px;
+    }
+}

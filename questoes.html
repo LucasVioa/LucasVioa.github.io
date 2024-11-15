@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eternity</title>
+    <link href="https://fonts.googleapis.com/css2?family=Gilroy:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script src="js/login.js" defer></script>
+</head>
+<body class="bg1 transition-fade">
+    <div class="bg2"></div>
+    <header>
+        <h1>Banco de Questões</h1>
+        <p>Selecione o tema para começar!</p>
+    </header>
+    <nav class="navbar">
+        <ul>
+            <li class="navli"><a href="index.html">Início</a></li>
+            <li class="navli"><a href="questoes.html">Questões</a></li>
+        </ul>
+    </nav>
+
+    <section id="questoes">
+        <div id="login-check">
+            <p>Please log in to access the questions.</p>
+            <a href="index.html" class="btn">Go to Login</a>
+        </div>
+        <main class="geralbtn" style="display: none;">
+            <div>
+                <a href="questao1.html?category=direito_constitucional_fixacao" class="btnq" onclick="return transitionToPage(this.href)">Direito Constitucional Fixação</a>
+            </div>
+
+            <div>
+                <a href="questao2.html" class="btnq" onclick="return transitionToPage(this.href)">Direito Constitucional Concursos</a>
+            </div>
+            
+            <div>
+                <a href="questao3.html" class="btnq" onclick="return transitionToPage(this.href)">Direito Penal Fixação</a>
+            </div>
+
+            <div>
+                <a href="matematica.html" class="btnq">Matemática</a>
+            </div>
+        </main> 
+    
+    </section>
+
+    <script>
+    function transitionToPage(href) {
+        document.body.classList.add('fade-out');
+        setTimeout(function() {
+            window.location.href = href;
+        }, 500);
+        return false;
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+        document.body.classList.remove('fade-out');
+        
+        // Check if user is logged in
+        const loggedInUser = localStorage.getItem('loggedInUser');
+        const loginCheck = document.getElementById('login-check');
+        const questionsContent = document.querySelector('.geralbtn');
+        
+        if (loggedInUser) {
+            loginCheck.style.display = 'none';
+            questionsContent.style.display = 'block';
+        } else {
+            loginCheck.style.display = 'block';
+            questionsContent.style.display = 'none';
+        }
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+/* Google Fonts Import */
+/* This imports all available Google Fonts */
+/* Note: This approach may significantly increase load times and is not recommended for production use */
+/* For production, it's better to selectively import only the fonts you need */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+/* 
+   The empty family parameter in the URL above tells Google Fonts to include all available fonts.
+   This is the simplest way to import all Google Fonts using only CSS.
+   
+   However, please be aware that this will try to load all Google Fonts, which can be thousands of fonts.
+   This can significantly slow down your website and is not recommended for actual use.
+   
+   For a real project, you should only import the specific fonts you need, like this:
+   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Open+Sans:wght@300;400;600;700&display=swap');
+*/

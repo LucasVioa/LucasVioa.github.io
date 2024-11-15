@@ -1,0 +1,32 @@
+/* Styles for quiz images */
+.question-image {
+    margin: 15px 0;
+    text-align: center;
+}
+
+.question-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.option-image {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.option-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .question-image img,
+    .option-image img {
+        max-width: 95%;
+    }
+}
