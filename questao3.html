@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direito Penal Fixação</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/toggle.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+</head>
+<body class="transition-fade">
+    <header>
+        <h1>Direito Penal Fixação</h1>
+    </header>
+    <nav class="navbar">
+        <ul>
+            <li class="navli"><a href="index.html">Início</a></li>
+            <li class="navli"><a href="questoes.html">Questões</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <div id="question-container">
+            <!-- Questions will be inserted here -->
+        </div>
+        
+    </main>
+
+    <script src="js/scripts.js"></script>
+    <script>
+        // Initialize questions for this page
+        initializeQuestions('questao3');
+    </script>
+<script>
+    function transitionToPage(href) {
+        document.body.classList.add('fade-out');
+        setTimeout(function() {
+            window.location.href = href;
+        }, 500);
+        return false;
+    }
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+        document.body.classList.remove('fade-out');
+    });
+    </script>
+</body>
+</html>

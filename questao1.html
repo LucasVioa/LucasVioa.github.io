@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direito Constitucional Fixação</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/toggle.css">
+    <link rel="stylesheet" href="css/images.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body class="transition-fade">
+    <header>
+        <h1>Questões de Fixação</h1>
+    </header>
+    <nav class="navbar">
+        <ul>
+            <li class="navli"><a href="index.html">Início</a></li>
+            <li class="navli"><a href="questoes.html">Questões</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div id="question-container">
+            <!-- Question template will be inserted here -->
+        </div>
+        <div id="feedback-container" class="feedback-message"></div>
+    </main>
+
+    <script src="js/image-upload.js"></script>
+    <script src="js/scripts.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const category = urlParams.get('category');
+            if (category) {
+                loadQuestions(category);
+            }
+        });
+    </script>
+</body>
+</html>

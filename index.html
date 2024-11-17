@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eternity</title>
+    <link href="https://fonts.googleapis.com/css2?family=Gilroy:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/login.js" defer></script>
+    <script src="js/question-counter.js" defer></script>
+</head>
+<body class="bg1">
+    <div class="background-image"></div>
+
+    <header>
+        <h1>Bem-vindo ao Banco de Questões para Concursos</h1>
+        <p>Aqui você encontra questões de várias disciplinas para estudar para concursos.</p>
+    </header>
+    <nav class="navbar">
+        <ul>
+            <li class="navli"><a href="index.html">Início</a></li>
+            <li class="navli"><a href="questoes.html">Questões</a></li>
+            <li class="navli"><a href="profile.html">Perfil</a></li>  
+                     
+        </ul>
+    </nav>
+    <main class="main-content">
+        <div id="error-message" style="display: none;"></div>
+        <div id="login-form">
+            <h2>Login</h2>
+            <form id="loginForm">
+                <label for="username">Username</label>
+                <input type="text" id="username" placeholder="Enter your username" required aria-label="Username">
+                <label for="password">Password</label>
+                <div class="password-container">
+                    <input type="password" id="password" placeholder="Enter your password" required aria-label="Password">
+                    <button type="button" id="toggle-password" aria-label="Toggle password visibility">
+                        <i class="bi bi-eye"></i>
+                    </button>
+                </div>
+                <label>
+                    <input type="checkbox" id="remember-me">
+                    Remember me
+                </label>
+                <button type="submit">Login</button>
+            </form>
+            <button id="forgot-password">Forgot Password?</button>
+        </div>
+        <div id="register-form">
+            <h2>Register</h2>
+            <form id="registerForm">
+                <label for="new-username">Username</label>
+                <input type="text" id="new-username" placeholder="Choose a username" required aria-label="New username">
+                <label for="new-password">Password</label>
+                <input type="password" id="new-password" placeholder="Choose a password" required aria-label="New password">
+                <label for="confirm-password">Confirm Password</label>
+                <input type="password" id="confirm-password" placeholder="Confirm your password" required aria-label="Confirm password">
+                <button type="submit">Register</button>
+            </form>
+        </div>
+        <div id="logged-in-content" style="display: none;">
+            <p class="welcomeindex">Welcome, <span id="user-name"></span>!</p>
+            <a href="questoes.html" class="btn">Fazer Questões</a>
+            <button id="logout-btn">Logout</button>
+        </div>
+    </main>
+    
+    <footer class="footer">
+        <p>Desenvolvido para estudantes de concursos © 2024</p>
+    </footer>
+
+    <!-- Removed transition script -->
+</body>
+</html>

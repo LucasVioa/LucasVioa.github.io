@@ -1,0 +1,939 @@
+{
+    "direito_constitucional_fixacao": [
+        {
+            "id": 1,
+            "question": "Qual dos princípios abaixo NÃO está expressamente previsto no Artigo 1º da Constituição Federal de 1988?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A soberania.",
+                "O pluralismo político.",
+                "A livre iniciativa.",
+                "A dignidade da pessoa humana."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, pois a livre iniciativa é prevista como fundamento da ordem econômica (Art. 170) e não como fundamento do Estado no Art. 1º.",
+            "tags": ["direito constitucional", "princípios fundamentais", "Art. 1º"]
+        },
+        {
+            "id": 2,
+            "question": "A Constituição Federal de 1988 prevê, como objetivo fundamental da República Federativa do Brasil:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Erradicar a pobreza e a marginalização.",
+                "Garantir a intervenção estrangeira para fins de cooperação econômica.",
+                "Priorizar os interesses do poder econômico sobre os sociais.",
+                "Centralizar o poder nos entes federativos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme disposto no Art. 3º, inciso III, da Constituição Federal.",
+            "tags": ["direito constitucional", "objetivos fundamentais", "Art. 3º"]
+        },
+        {
+            "id": 3,
+            "question": "Segundo o Artigo 5º da Constituição Federal, a casa é asilo inviolável do indivíduo, salvo em caso de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Ordem judicial, prisão em flagrante delito ou desastre.",
+                "Ato administrativo do poder público.",
+                "Situações de alta gravidade independente de ordem judicial.",
+                "Nenhuma hipótese, pois a inviolabilidade é absoluta."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme disposto no Art. 5º, inciso XI, da Constituição Federal.",
+            "tags": ["direito constitucional", "direitos fundamentais", "Art. 5º"]
+        },
+        {
+            "id": 4,
+            "question": "Qual é o regime político estabelecido pela Constituição Federal de 1988?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Monarquia parlamentarista.",
+                "Democracia direta.",
+                "República Federativa com regime democrático.",
+                "Ditadura do proletariado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, pois a Constituição estabelece um regime democrático e republicano (Art. 1º e Art. 18).",
+            "tags": ["direito constitucional", "forma de governo", "regime político"]
+        },
+        {
+            "id": 5,
+            "question": "De acordo com o Artigo 60 da Constituição Federal, é correto afirmar que:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A Constituição Federal pode ser alterada por lei complementar.",
+                "É vedada a deliberação de proposta de emenda tendente a abolir a separação dos Poderes.",
+                "É possível a edição de medida provisória para alterar cláusulas pétreas.",
+                "As cláusulas pétreas podem ser alteradas por plebiscito popular."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme disposto no Art. 60, §4º, que protege cláusulas pétreas, incluindo a separação dos Poderes.",
+            "tags": ["direito constitucional", "cláusulas pétreas", "Art. 60"]
+        },
+        {
+            "id": 6,
+            "question": "Sobre os direitos sociais previstos na Constituição Federal de 1988, é correto afirmar que:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "São direitos sociais a educação, a saúde e o lazer.",
+                "Os direitos sociais não incluem direitos trabalhistas.",
+                "Somente são direitos sociais aqueles expressos no Art. 5º.",
+                "Os direitos sociais estão condicionados exclusivamente à iniciativa privada."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme disposto no Art. 6º da Constituição Federal.",
+            "tags": ["direito constitucional", "direitos sociais", "Art. 6º"]
+        },
+        {
+            "id": 7,
+            "question": "Qual é a idade mínima para um brasileiro se candidatar à Presidência da República, segundo a Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "21 anos.",
+                "30 anos.",
+                "35 anos.",
+                "40 anos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme previsto no Art. 14, §3º, VI, da Constituição Federal.",
+            "tags": ["direito constitucional", "direitos políticos", "Art. 14"]
+        },
+        {
+            "id": 8,
+            "question": "A Constituição de 1988 prevê que o Brasil adotará como princípio nas suas relações internacionais:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A subordinação aos interesses de organizações estrangeiras.",
+                "A não intervenção nos assuntos internos de outros Estados.",
+                "A supremacia militar sobre acordos internacionais.",
+                "A promoção de conflitos para proteção de interesses econômicos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme disposto no Art. 4º, inciso IV, da Constituição Federal.",
+            "tags": ["direito constitucional", "relações internacionais", "Art. 4º"]
+        },
+        {
+            "id": 9,
+            "question": "Qual das alternativas NÃO é um objetivo da ordem econômica segundo a Constituição Federal?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Redução das desigualdades regionais e sociais.",
+                "Defesa do consumidor.",
+                "Concentração de riquezas em prol do crescimento econômico.",
+                "Função social da propriedade."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, pois a Constituição visa promover distribuição de renda e justiça social (Art. 170).",
+            "tags": ["direito constitucional", "ordem econômica", "Art. 170"]
+        },
+        {
+            "id": 10,
+            "question": "Sobre o controle de constitucionalidade no Brasil, é correto afirmar que:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Somente o Senado Federal pode declarar a inconstitucionalidade de uma lei.",
+                "O Supremo Tribunal Federal exerce o controle concentrado e difuso de constitucionalidade.",
+                "A inconstitucionalidade de uma lei só pode ser reconhecida por meio de plebiscito.",
+                "O controle de constitucionalidade não é previsto na Constituição de 1988."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme as competências do STF no controle concentrado (ADIs) e no difuso.",
+            "tags": ["direito constitucional", "controle de constitucionalidade"]
+        },
+        {
+            "id": 11,
+            "question": "Quais são os Poderes da União previstos na Constituição Federal de 1988?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Executivo, Legislativo, Judiciário e Militar.",
+                "Legislativo, Executivo e Judiciário.",
+                "Judiciário, Legislativo, Executivo e Econômico.",
+                "Executivo, Judiciário e Educacional."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme disposto no Art. 2º da Constituição Federal.",
+            "tags": ["direito constitucional", "poderes da união", "Art. 2º"]
+        },
+        {
+            "id": 12,
+            "question": "Qual é o prazo máximo de validade de uma medida provisória, incluindo sua prorrogação, conforme a Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "60 dias.",
+                "90 dias.",
+                "120 dias.",
+                "180 dias."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, conforme Art. 62, §7º, da Constituição Federal.",
+            "tags": ["direito constitucional", "medidas provisórias", "Art. 62"]
+        },
+        {
+            "id": 13,
+            "question": "De acordo com a Constituição Federal de 1988, qual é a função social da propriedade?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Permitir a exploração econômica irrestrita do proprietário.",
+                "Respeitar sua destinação econômica e social, beneficiando a coletividade.",
+                "Garantir que o proprietário tenha pleno domínio, independentemente do uso.",
+                "Proibir intervenções do Estado sobre propriedades privadas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme disposto no Art. 5º, inciso XXIII, e Art. 170, inciso III, da Constituição Federal.",
+            "tags": ["direito constitucional", "função social da propriedade", "Art. 5º"]
+        },
+        {
+            "id": 14,
+            "question": "Segundo a Constituição Federal, o casamento é considerado:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Uma instituição civil, com possibilidade de dissolução por divórcio.",
+                "Um sacramento religioso indissolúvel.",
+                "Uma instituição exclusivamente destinada à formação de família tradicional.",
+                "Uma relação patrimonial, sem vínculo com a constituição familiar."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 226, §6º, que permite a dissolução do casamento pelo divórcio.",
+            "tags": ["direito constitucional", "direito de família", "Art. 226"]
+        },
+        {
+            "id": 15,
+            "question": "Qual dos direitos abaixo NÃO é garantido ao estrangeiro no Brasil, segundo a Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Direito à vida.",
+                "Direito à propriedade.",
+                "Direito de votar e ser votado.",
+                "Direito à liberdade de expressão."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, pois o direito de votar e ser votado é restrito aos brasileiros e, em casos específicos, a estrangeiros naturalizados.",
+            "tags": ["direito constitucional", "direitos fundamentais", "Art. 5º"]
+        },
+        {
+            "id": 16,
+            "question": "De acordo com a Constituição Federal, a educação é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Um direito social, mas que depende exclusivamente de iniciativa privada.",
+                "Um dever do Estado e da família, promovido em colaboração com a sociedade.",
+                "Apenas uma meta facultativa do governo, sem obrigatoriedade constitucional.",
+                "Responsabilidade exclusiva dos pais e responsáveis, sem intervenção estatal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme disposto no Art. 205, que destaca a educação como direito e dever do Estado e da família.",
+            "tags": ["direito constitucional", "educação", "Art. 205"]
+        },
+        {
+            "id": 17,
+            "question": "O sistema de repartição de competências no Brasil é dividido em:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Competências exclusivas e privativas.",
+                "Competências legislativas e administrativas.",
+                "Competências da União, dos Estados, dos Municípios e do Distrito Federal.",
+                "Competências internacionais e nacionais."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme os Arts. 21, 22, 23 e 24 da Constituição Federal, que distribuem competências entre os entes federativos.",
+            "tags": ["direito constitucional", "competências federativas", "Arts. 21-24"]
+        },
+        {
+            "id": 18,
+            "question": "A Constituição estabelece que a saúde é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Dever do Estado e direito de todos.",
+                "Responsabilidade exclusiva da iniciativa privada.",
+                "Garantida apenas aos brasileiros naturalizados.",
+                "Direito facultativo, dependendo da legislação infraconstitucional."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 196, que determina a saúde como direito de todos e dever do Estado.",
+            "tags": ["direito constitucional", "saúde", "Art. 196"]
+        },
+        {
+            "id": 19,
+            "question": "A forma de governo adotada pelo Brasil, segundo a Constituição de 1988, é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Monarquia constitucional.",
+                "República.",
+                "Confederação.",
+                "Democracia direta."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 1º, que define o Brasil como uma República.",
+            "tags": ["direito constitucional", "forma de governo", "Art. 1º"]
+        },
+        {
+            "id": 20,
+            "question": "Qual é o instrumento normativo utilizado para declarar intervenção federal em um Estado?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Medida provisória.",
+                "Emenda constitucional.",
+                "Decreto presidencial.",
+                "Portaria do Ministério da Justiça."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 84, inciso X, que atribui ao Presidente da República a competência para expedir decreto de intervenção.",
+            "tags": ["direito constitucional", "intervenção federal", "Art. 84"]
+        },
+        {
+            "id": 21,
+            "question": "Em caso de calamidade pública, qual é o prazo inicial de vigência do estado de defesa?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "15 dias.",
+                "30 dias.",
+                "60 dias.",
+                "120 dias."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 136, §2º, que prevê a duração de 15 dias, podendo ser prorrogada.",
+            "tags": ["direito constitucional", "estado de defesa", "Art. 136"]
+        },
+        {
+            "id": 22,
+            "question": "Qual é o órgão responsável pelo julgamento do Presidente da República nos crimes de responsabilidade?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Supremo Tribunal Federal.",
+                "Congresso Nacional.",
+                "Senado Federal.",
+                "Câmara dos Deputados."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 52, inciso I, da Constituição Federal, que atribui ao Senado Federal o julgamento nos crimes de responsabilidade.",
+            "tags": ["direito constitucional", "crimes de responsabilidade", "Art. 52"]
+        },
+        {
+            "id": 23,
+            "question": "Qual é o prazo máximo de duração do estado de sítio, conforme a Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "15 dias.",
+                "30 dias.",
+                "60 dias.",
+                "90 dias."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 137, §2º, que determina 30 dias como prazo inicial, podendo ser prorrogado.",
+            "tags": ["direito constitucional", "estado de sítio", "Art. 137"]
+        },
+        {
+            "id": 24,
+            "question": "A Constituição Federal assegura a liberdade de associação, exceto quando:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A associação tenha finalidades ilícitas.",
+                "A associação atue em temas políticos.",
+                "A associação receba financiamento estrangeiro.",
+                "A associação seja formada por estrangeiros."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 5º, inciso XVII, que proíbe associações com fins ilícitos.",
+            "tags": ["direito constitucional", "liberdade de associação", "Art. 5º"]
+        },
+        {
+            "id": 25,
+            "question": "De acordo com a Constituição, qual é o percentual mínimo de recursos que os Estados devem aplicar na manutenção e desenvolvimento do ensino?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "10%.",
+                "15%.",
+                "25%.",
+                "30%."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 212, que exige o mínimo de 25% das receitas resultantes de impostos para a educação.",
+            "tags": ["direito constitucional", "educação", "Art. 212"]
+        },
+        {
+            "id": 26,
+            "question": "Quais são os únicos entes federativos que podem criar territórios federais no Brasil?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Os Estados e o Distrito Federal.",
+                "A União.",
+                "Os Municípios.",
+                "Qualquer ente federativo mediante plebiscito."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 18, §2º, que estabelece que a criação de territórios federais é competência exclusiva da União.",
+            "tags": ["direito constitucional", "territórios federais", "Art. 18"]
+        },
+        {
+            "id": 27,
+            "question": "Segundo a Constituição, o voto é obrigatório para:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Todos os maiores de 16 anos.",
+                "Apenas os maiores de 21 anos.",
+                "Maiores de 18 anos e menores de 70 anos.",
+                "Todos os brasileiros, sem exceção."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 14, §1º, que torna o voto obrigatório para maiores de 18 anos e menores de 70 anos.",
+            "tags": ["direito constitucional", "voto obrigatório", "Art. 14"]
+        },
+        {
+            "id": 28,
+            "question": "Qual é o objetivo fundamental da República Federativa do Brasil, conforme a Constituição de 1988?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Garantir a propriedade privada como prioridade absoluta.",
+                "Construir uma sociedade livre, justa e solidária.",
+                "Estabelecer uma economia centralizada e protecionista.",
+                "Expandir as fronteiras brasileiras."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 3º, inciso I, da Constituição Federal.",
+            "tags": ["direito constitucional", "objetivos fundamentais", "Art. 3º"]
+        },
+        {
+            "id": 29,
+            "question": "Segundo a Constituição, é competência exclusiva da União:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Legislar sobre direito processual.",
+                "Estabelecer normas gerais de direito tributário.",
+                "Instituir impostos sobre propriedade predial e territorial urbana.",
+                "Explorar os serviços locais de transporte público."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 22, inciso I, que confere à União competência para legislar sobre direito processual.",
+            "tags": ["direito constitucional", "competências exclusivas", "Art. 22"]
+        },
+        {
+            "id": 30,
+            "question": "Quem possui competência para propor emendas à Constituição Federal?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Apenas o Presidente da República.",
+                "Apenas o Congresso Nacional.",
+                "Um terço dos membros da Câmara ou do Senado, o Presidente da República ou mais da metade das Assembleias Legislativas.",
+                "O Supremo Tribunal Federal."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 60, que regula o processo de emendas constitucionais.",
+            "tags": ["direito constitucional", "emenda constitucional", "Art. 60"]
+        },
+        {
+            "id": 31,
+            "question": "De acordo com a Constituição Federal, a defesa do consumidor é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Um objetivo fundamental da República.",
+                "Um princípio da ordem econômica.",
+                "Uma cláusula pétrea.",
+                "Uma competência exclusiva dos Estados."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 170, inciso V, que estabelece a defesa do consumidor como princípio da ordem econômica.",
+            "tags": ["direito constitucional", "defesa do consumidor", "Art. 170"]
+        },
+        {
+            "id": 32,
+            "question": "O que caracteriza uma cláusula pétrea, segundo a Constituição Federal?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "São disposições que podem ser modificadas por lei ordinária.",
+                "São normas que podem ser alteradas por emenda constitucional.",
+                "São normas que não podem ser abolidas, nem por emenda constitucional.",
+                "São disposições que somente o Supremo Tribunal Federal pode interpretar."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 60, §4º, que protege as cláusulas pétreas contra alterações que possam aboli-las.",
+            "tags": ["direito constitucional", "cláusulas pétreas", "Art. 60"]
+        },
+        {
+            "id": 33,
+            "question": "A Constituição de 1988 prevê que a União pode intervir nos Estados em caso de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Risco iminente de catástrofe ambiental.",
+                "Inobservância dos princípios constitucionais sensíveis.",
+                "Desacordo político entre governador e Assembleia Legislativa.",
+                "Perda da maioria parlamentar do governador."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 34, inciso VII, que trata da intervenção por inobservância de princípios constitucionais sensíveis.",
+            "tags": ["direito constitucional", "intervenção federal", "Art. 34"]
+        },
+        {
+            "id": 34,
+            "question": "Segundo a Constituição, o brasileiro naturalizado somente poderá ser extraditado em caso de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Cometimento de crime comum após a naturalização.",
+                "Cometimento de crime de qualquer natureza antes da naturalização.",
+                "Envolvimento em atividades contrárias à ordem econômica.",
+                "Envolvimento comprovado em tráfico de entorpecentes."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 5º, inciso LI, que permite a extradição de brasileiros naturalizados somente em caso de crime comum praticado antes da naturalização.",
+            "tags": ["direito constitucional", "extradição", "Art. 5º"]
+        },
+        {
+            "id": 35,
+            "question": "O Poder Legislativo federal no Brasil é exercido:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Apenas pela Câmara dos Deputados.",
+                "Apenas pelo Senado Federal.",
+                "Pelo Congresso Nacional, composto pela Câmara dos Deputados e pelo Senado Federal.",
+                "Pelos parlamentares estaduais em conjunto com o Congresso Nacional."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 44, que define o Congresso Nacional como composto pela Câmara dos Deputados e pelo Senado Federal.",
+            "tags": ["direito constitucional", "poder legislativo", "Art. 44"]
+        },
+        {
+            "id": 36,
+            "question": "O controle de constitucionalidade exercido pelo Supremo Tribunal Federal em ação direta de inconstitucionalidade (ADI) é do tipo:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Difuso.",
+                "Concentrado.",
+                "Administrativo.",
+                "Consultivo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, pois o controle concentrado ocorre por meio de ADI, conforme competência do STF prevista no Art. 102.",
+            "tags": ["direito constitucional", "controle de constitucionalidade", "Art. 102"]
+        },
+        {
+            "id": 37,
+            "question": "Conforme a Constituição, os municípios possuem competência legislativa:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Concorrente com os Estados e a União em todos os assuntos.",
+                "Exclusiva para assuntos de interesse nacional.",
+                "Suplementar às legislações federal e estadual no que couber.",
+                "Apenas para criar tributos municipais."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 30, inciso II, que confere aos municípios competência suplementar às legislações federal e estadual.",
+            "tags": ["direito constitucional", "competência legislativa", "Art. 30"]
+        },
+        {
+            "id": 38,
+            "question": "O Congresso Nacional pode sustar atos normativos do Presidente da República que:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Ofendam cláusulas pétreas da Constituição.",
+                "Extrapolem os limites do poder regulamentar ou da delegação legislativa.",
+                "Interfiram nas competências legislativas estaduais.",
+                "Atenuem direitos fundamentais previstos no Art. 5º."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 49, inciso V, que permite ao Congresso sustar atos normativos que extrapolem o poder regulamentar.",
+            "tags": ["direito constitucional", "competência do Congresso Nacional", "Art. 49"]
+        },
+        {
+            "id": 39,
+            "question": "Segundo a Constituição Federal, os tratados internacionais sobre direitos humanos que forem aprovados pelo Congresso Nacional, em dois turnos, por três quintos dos votos, equivalem:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A normas infraconstitucionais.",
+                "A leis ordinárias.",
+                "A normas constitucionais.",
+                "A cláusulas pétreas."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 5º, §3º, que equipara esses tratados a emendas constitucionais.",
+            "tags": ["direito constitucional", "tratados internacionais", "Art. 5º"]
+        },
+        {
+            "id": 40,
+            "question": "O Presidente da República pode ser processado por crime comum perante:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "O Senado Federal.",
+                "O Supremo Tribunal Federal.",
+                "A Câmara dos Deputados.",
+                "O Tribunal Superior Eleitoral."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 86, que prevê o julgamento do Presidente por crime comum no STF, após autorização da Câmara.",
+            "tags": ["direito constitucional", "crimes comuns do presidente", "Art. 86"]
+        },
+        {
+            "id": 41,
+            "question": "Conforme a Constituição Federal de 1988, a anulação de um ato administrativo que afronta a Constituição pode ser realizada por:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Somente pelo Supremo Tribunal Federal.",
+                "Qualquer Poder, desde que respeitadas suas competências constitucionais.",
+                "Apenas pelo Poder Executivo, autor do ato.",
+                "Somente pelo Congresso Nacional, mediante aprovação por maioria absoluta."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, pois qualquer Poder pode invalidar atos que estejam em desacordo com a Constituição, observando suas competências.",
+            "tags": ["direito constitucional", "atos administrativos", "controle de constitucionalidade"]
+        },
+        {
+            "id": 42,
+            "question": "Quais são os entes que compõem a República Federativa do Brasil, conforme a Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A União, os Estados e os Municípios.",
+                "A União, os Estados, os Municípios e o Distrito Federal.",
+                "A União e os Estados, exclusivamente.",
+                "A União e o Distrito Federal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 1º, que estabelece a República Federativa do Brasil formada pela união dos entes federativos mencionados.",
+            "tags": ["direito constitucional", "estrutura federativa", "Art. 1º"]
+        },
+        {
+            "id": 43,
+            "question": "De acordo com a Constituição, quais princípios devem nortear a administração pública?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+                "Autonomia, soberania, eficiência, transparência e igualdade.",
+                "Liberdade, democracia, igualdade, publicidade e legalidade.",
+                "Imparcialidade, transparência, supremacia do interesse público e igualdade."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 37, caput, que estabelece os princípios da administração pública no Brasil.",
+            "tags": ["direito constitucional", "administração pública", "Art. 37"]
+        },
+        {
+            "id": 44,
+            "question": "A Constituição de 1988 permite a instituição de impostos pela União sobre:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Propriedade de veículos automotores.",
+                "Serviços de transporte municipal.",
+                "Importação de produtos estrangeiros.",
+                "Propriedade de imóveis urbanos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 153, inciso I, que prevê a competência da União para instituir imposto sobre importação de produtos estrangeiros.",
+            "tags": ["direito constitucional", "competência tributária", "Art. 153"]
+        },
+        {
+            "id": 45,
+            "question": "Qual é a idade mínima para ser eleito governador de Estado, conforme a Constituição Federal?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "18 anos.",
+                "21 anos.",
+                "25 anos.",
+                "30 anos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 14, §3º, inciso VI, alínea 'b', que estabelece a idade mínima de 25 anos para o cargo de governador.",
+            "tags": ["direito constitucional", "direitos políticos", "Art. 14"]
+        },
+        {
+            "id": 46,
+            "question": "Segundo a Constituição, o ensino religioso nas escolas públicas de ensino fundamental é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Obrigatório para todas as escolas públicas.",
+                "Vedado, para garantir o princípio da laicidade.",
+                "Facultativo, devendo ser oferecido sem ônus ao Estado.",
+                "Permitido, desde que vinculado a uma religião específica."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 210, §1º, que prevê o ensino religioso facultativo nas escolas públicas.",
+            "tags": ["direito constitucional", "educação", "Art. 210"]
+        },
+        {
+            "id": 47,
+            "question": "O Tribunal de Contas da União (TCU) possui competência para:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Julgar governadores de Estado por atos administrativos.",
+                "Apreciar as contas prestadas pelo Presidente da República.",
+                "Emitir decisões vinculantes sobre políticas públicas.",
+                "Elaborar leis orçamentárias em âmbito federal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 71, inciso I, que atribui ao TCU a competência de apreciar as contas do Presidente da República.",
+            "tags": ["direito constitucional", "tribunal de contas", "Art. 71"]
+        },
+        {
+            "id": 48,
+            "question": "A competência para julgar conflitos federativos entre Estados e a União pertence:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Ao Superior Tribunal de Justiça (STJ).",
+                "Ao Supremo Tribunal Federal (STF).",
+                "À Câmara dos Deputados.",
+                "Ao Senado Federal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 102, inciso I, alínea 'f', que prevê a competência originária do STF para julgar conflitos federativos.",
+            "tags": ["direito constitucional", "competência jurisdicional", "Art. 102"]
+        },
+        {
+            "id": 49,
+            "question": "Conforme a Constituição, a quem cabe a iniciativa para apresentação de projeto de lei sobre criação de cargos públicos?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A qualquer parlamentar.",
+                "Apenas ao Presidente da República.",
+                "Ao chefe do Poder Executivo ou aos presidentes dos demais Poderes interessados.",
+                "A qualquer cidadão por meio de iniciativa popular."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 61, §1º, inciso II, alínea 'a', que prevê a iniciativa reservada ao chefe do Poder Executivo ou aos presidentes dos demais Poderes interessados.",
+            "tags": ["direito constitucional", "iniciativa legislativa", "Art. 61"]
+        },
+        {
+            "id": 50,
+            "question": "Segundo a Constituição Federal, o controle externo das contas públicas é exercido:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Pelo Tribunal de Contas da União, exclusivamente.",
+                "Pelo Congresso Nacional, com auxílio do Tribunal de Contas da União.",
+                "Pelo Supremo Tribunal Federal.",
+                "Pela Câmara dos Deputados, exclusivamente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 71, caput, que estabelece o Congresso Nacional como responsável pelo controle externo, com auxílio do TCU.",
+            "tags": ["direito constitucional", "controle externo", "Art. 71"]
+        }             
+    ],
+    "direito_constitucional_concursos": [
+        {
+            "id": 1,
+            "question": "Considerando os principios que regem as relações internacionais da República Federativa do Brasil, inclusos no Artigo 4º do inciso I ao X, assinale a assertiva que não apresenta nenhuma incoerência com o regido pelo referido Artigo.",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "O Brasil ao verificar que um Estado estrangeiro está tentando reger e impor, no território brasileiro, determinadas medidas internacionais regidas em tratado, ele irá proporcionar todo e qualquer apoio aos envolvidos.",
+                "Dois ativistas políticos de um Estado estrangeiro qualquer solicitaram asilo político em território brasileiro devido à perseguição e censura que sofrem. O Brasil deve conceder asilo à estes ativistas e proporcionar garantias e direitos aos referidos ativistas.",
+                "O Brasil sempre deve procurar resolver conflitos estrangeiros entre Estados de maneira bélica envolvendo intervenções militares em território estrangeiro.",
+                "Um Estado estrangeiro pode ter sua cultura e sociedade moldada por interesses do governo Brasileiro, com a finalidade de evitar conflitos sociais culturais entre as massas populares."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Alternativa correta é letra B, pois, afere com precisão o inciso que destaca a concessão de Asilo Político. Alternativa 'A' fere o inciso que define a questão da independencia Nacional. Alternativa 'C' fere 2 incisos, que regem a defesa da paz e o principio da não intervenção. A alternativa 'D' fere o principio da auto-determinação dos povos.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        }
+    ],
+    "matematica": [
+        {
+            "id": 1,
+            "question": "Dada a função f(x) = x² - 4x + 3, determine as raízes da equação f(x) = 0.",
+            "questionImage": "",
+            "optionImages": ["", "", "", "",""],
+            "options": [
+                "x = -1 e x = -3",
+                "x = 3 e x = 1",
+                "x = 2 e x = -2",
+                "x = 0 e x = 4",
+                "x = 1/2 e x = 3"
+            ],
+            "correctAnswer": 1,
+            "explanation": "As raízes da função são encontradas utilizando a fórmula de Bhaskara. Substituindo os valores, temos x = 3 e x = 1.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        },
+        {
+            "id": 2,
+            "question": "Qual é o valor do vértice (x, y) da parábola definida pela função f(x) = -2x² + 8x - 6?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "(2, -2)",
+                "(1, 0)",
+                "(2, 2)",
+                "(0, -6)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "O x do vértice é dado por -b/2a, e o y substituindo esse x na função. Assim, o vértice é (2, -2).",
+            "tags": ["matemática", "parábola", "vértice"]
+        },
+        {
+            "id": 3,
+            "question": "Determine o valor de f(2) para a função f(x) = 3x² - 5x + 2.",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "4",
+                "6",
+                "8",
+                "10"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Substituindo x = 2 na função: f(2) = 3(2)² - 5(2) + 2 = 4.",
+            "tags": ["matemática", "função quadrática", "valor numérico"]
+        },
+        {
+            "id": 4,
+            "question": "Qual é o coeficiente angular da reta tangente à parábola f(x) = x² - x - 2 no ponto x = 1?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "-1",
+                "1",
+                "0",
+                "3"
+            ],
+            "correctAnswer": 1,
+            "explanation": "O coeficiente angular da reta tangente é dado pela derivada f'(x). Derivando, f'(x) = 2x - 1. Para x = 1, f'(1) = 1.",
+            "tags": ["matemática", "derivada", "reta tangente"]
+        },
+        {
+            "id": 5,
+            "question": "A função f(x) = x² - 4x + 5 tem um valor mínimo ou máximo? Qual é este valor?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Mínimo, 1",
+                "Máximo, 1",
+                "Mínimo, 2",
+                "Máximo, 2"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A parábola abre para cima (a > 0), portanto tem um mínimo. Calculando o vértice, o valor mínimo é 1.",
+            "tags": ["matemática", "parábola", "valor mínimo"]
+        },
+        {
+            "id": 6,
+            "question": "A função f(x) = 2x² - 8x + 6 corta o eixo x em quais pontos?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "(1, 0) e (3, 0)",
+                "(-1, 0) e (-3, 0)",
+                "(0, 2) e (0, 3)",
+                "(2, 0) e (1, 0)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Calculando as raízes de 2x² - 8x + 6 = 0 por Bhaskara, obtemos x = 1 e x = 3.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        },
+        {
+            "id": 7,
+            "question": "O valor de Δ para a função f(x) = -x² + 6x - 8 é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "4",
+                "0",
+                "-4",
+                "16"
+            ],
+            "correctAnswer": 3,
+            "explanation": "O Δ é dado por b² - 4ac. Substituindo: Δ = 6² - 4(-1)(-8) = 16.",
+            "tags": ["matemática", "equação quadrática", "discriminante"]
+        },
+        {
+            "id": 8,
+            "question": "A função f(x) = 2x² + 4x + 3 é positiva para quais valores de x?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "x < -3 e x > -1",
+                "-3 < x < -1",
+                "Para todos os valores de x",
+                "Nenhum valor de x"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Como Δ < 0, a função não tem raízes reais e o valor de a > 0, então a função é sempre positiva.",
+            "tags": ["matemática", "função quadrática", "conjunto solução"]
+        },
+        {
+            "id": 9,
+            "question": "Se a função f(x) = x² + 6x + c toca o eixo x em apenas um ponto, qual é o valor de c?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "9",
+                "0",
+                "36",
+                "-9"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Para que toque o eixo x, Δ deve ser zero. Δ = b² - 4ac = 0 → 6² - 4(1)c = 0. Assim, c = 9.",
+            "tags": ["matemática", "equação quadrática", "discriminante"]
+        },
+        {
+            "id": 10,
+            "question": "Qual é a soma das raízes da função f(x) = 3x² - 9x + 6?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "3",
+                "-3",
+                "2",
+                "0"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A soma das raízes de uma equação quadrática é dada por -b/a. Assim, soma = -(-9)/3 = 3.",
+            "tags": ["matemática", "equação quadrática", "raízes"]
+        },
+        {
+            "id": 11,
+            "question": "Considerando as alternativas abaixo, assinale aquela que tiver corretamente relacionado a função do segundo grau e o seu respectivo gráfico",
+            "questionImage": "",
+            "optionImages": ["https://cdn.discordapp.com/attachments/969364366464000010/1306994406301106247/image.png?ex=6738b0e5&is=67375f65&hm=d16aaa21d67cf33fc1d0e19b85ac2db34768a01a2d225c60f1597460eb08045f&", "https://cdn.discordapp.com/attachments/969364366464000010/1306995959934357524/image.png?ex=6738b257&is=673760d7&hm=12b531ed2bcf9661e30a35fb82fe8188d67d0795ebcfa550bd0d67f82f90c68c&", "https://cdn.discordapp.com/attachments/969364366464000010/1306996515088240734/image.png?ex=6738b2dc&is=6737615c&hm=c834754ff948e3e4b262eda15bd5b23ac4517d212e1bc45c90374369f3141f9d&", "https://cdn.discordapp.com/attachments/969364366464000010/1306996651818221599/image.png?ex=6738b2fc&is=6737617c&hm=dff08d2941046f4c09d14b8136bd892a9fedffdd6ce19b7131045f3c5c792c9c&"],
+            "options": [
+                "x²+2x-1",
+                "2x²+5x-10",
+                "2x²+2",
+                "4x²+2x"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A parábola abre para cima (a > 0), portanto tem um mínimo. Calculando o vértice, o valor mínimo é 1.",
+            "tags": ["matemática", "função quadrática", "gráfico"]
+        }   
+    ]
+}

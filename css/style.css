@@ -1,0 +1,605 @@
+@import url("/css/fonts.css");
+
+/* Profile page styles */
+#profile-container {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.profile-info {
+    margin-top: 1.5rem;
+}
+
+.stats-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.stat-box {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.stat-box h3 {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+    font-size: 1.1rem;
+}
+
+.stat-box p {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #007bff;
+    margin: 0;
+}
+
+.performance-container {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #e9ecef;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1rem 0;
+}
+
+.progress {
+    height: 100%;
+    background-color: #28a745;
+    transition: width 0.3s ease;
+}
+
+#success-rate-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #28a745;
+}
+
+/* Login and Registration Styles */
+#login-form, #register-form {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#loginForm, #registerForm {
+    display: flex;
+    flex-direction: column;
+}
+
+#loginForm input, #registerForm input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.password-container {
+    position: relative;
+}
+
+#toggle-password {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+#forgot-password {
+    background: none;
+    border: none;
+    color: #4CAF50;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#loginForm button, #registerForm button, #logout-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#loginForm button:hover, #registerForm button:hover, #logout-btn:hover {
+    background-color: #45a049;
+}
+
+#loginForm button:focus, #registerForm button:focus, #logout-btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.5);
+}
+
+#error-message {
+    background-color: #ffcccc;
+    color: #ff0000;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#error-message.success {
+    background-color: #ccffcc;
+    color: #008000;
+}
+
+#remember-me {
+    margin-right: 5px;
+}
+
+#logged-in-content {
+    text-align: center;
+}
+
+#logged-in-content p {
+    margin-bottom: 20px;
+}
+
+
+/* Reset de margens e padding */
+
+/* Navbar styles */
+.navbar {
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    background-color: #164b18;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li {
+    margin: 0 15px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+    color: #09470c;
+    background-color: rgba(255,255,255,0.1);
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.navli {
+    border: #09470c;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+
+/* Estilos globais */
+body {
+    font-family: 'Gilroy', Arial, sans-serif;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    position: relative;
+}
+
+/* Removed transition styles */
+
+.background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: 0.2;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+}
+
+.bg2 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;    height: 100%;
+    background-image: url('../images/bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: 0.2;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+}
+
+.bg1 {
+    background-color: #000;
+}
+
+
+header, main, footer {
+    position: relative;
+    z-index: 1;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #3a8a3d;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 1.1rem;
+}
+
+/* Conteúdo principal */
+.main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+ul li:hover {
+    background-color: #f0f0f0;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.option-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.option-text {
+    flex-grow: 1;
+}
+
+.option.selected .option-circle {
+    background-color: #45a049;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.option.selected .option-text {
+    font-weight: bold;
+}
+
+ul li:hover {
+    background-color: #f0f0f0;
+}
+
+.correct-answer {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+
+.incorrect-answer {
+    background-color: #f44336;
+    color: white;
+    font-weight: bold;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.option:hover {
+    background-color: #f0f0f0;
+}
+
+.option-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.option-text {
+    flex: 1;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btnq {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    margin: 15px;
+    text-align: center;
+    width: 275px;
+    height: 75px;
+}
+
+.geralbtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    padding: 20px;
+}
+
+.btnq:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
+
+.btn:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
+
+/* Rodapé */
+.footer {
+    width: 100%;
+    padding: 15px;
+    background-color: #333;
+    color: #f4f4f4;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.enunciado {
+    font-weight: bold;
+}
+
+.pergunta {
+    margin: 20px;
+    margin-top: 30px;
+}
+
+.options {
+    margin: 20px 0;
+}
+
+.option {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.option:hover {
+    background-color: #f5f5f5;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#question-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.explanation {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.explanation.correct {
+    background-color: #e6ffe6;
+    color: #006600;
+}
+
+.explanation.incorrect {
+    background-color: #ffe6e6;
+    color: #660000;
+}
+
+.welcomeindex {
+    color: white;
+    font-weight: bold;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px 0;
+}
+
+.progress {
+    height: 100%;
+    background-color: #4CAF50;
+    transition: width 0.5s ease-in-out;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin: 10px 0;
+    position: relative;
+}
+
+.progress {
+    height: 100%;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    transition: width 0.3s ease;
+}
+
+.progress-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #333;
+    font-size: 14px;
+}
+
+.results-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.score-summary {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.overall-stats {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.restart-btn, .home-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.restart-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.home-btn {
+    background-color: #6c757d;
+    color: white;
+}
+
