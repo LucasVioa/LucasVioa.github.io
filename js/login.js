@@ -187,45 +187,103 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    // registerForm.addEventListener('submit', (e) => {
+    //     e.preventDefault();
+    //     const newUsername = sanitizeInput(document.getElementById('new-username').value.trim());
+    //     const newPassword = document.getElementById('new-password').value;
+    //     const confirmPassword = document.getElementById('confirm-password').value;
+    //     const submittedToken = registerForm.querySelector('input[name="csrf_token"]').value;
+
+    //     if (submittedToken !== csrfToken) {
+    //         showError('Invalid form submission. Please try again.');
+    //         csrfToken = generateCSRFToken();
+    //         return;
+    //     }
+
+    //     if (!newUsername || !newPassword || !confirmPassword) {
+    //         showError('Please fill in all fields.');
+    //         return;
+    //     }
+
+    //     if (!isPasswordStrong(newPassword)) {
+    //         showError('Password must be at least 8 characters long and contain uppercase, lowercase, number, and special character.');
+    //         return;
+    //     }
+
+    //     if (newPassword !== confirmPassword) {
+    //         showError('Passwords do not match.');
+    //         return;
+    //     }
+
+    //     if (users.some(u => u.username === newUsername)) {
+    //         showError('Username already exists.');
+    //         return;
+    //     }
+
+    //     users.push({ username: newUsername, password: hashPassword(newPassword) });
+    //     localStorage.setItem('users', JSON.stringify(users));
+    //     showError('Registration successful. Please log in.', 'success');
+    //     registerForm.reset();
+    // });
+
     registerForm.addEventListener('submit', (e) => {
         e.preventDefault();
         const newUsername = sanitizeInput(document.getElementById('new-username').value.trim());
         const newPassword = document.getElementById('new-password').value;
         const confirmPassword = document.getElementById('confirm-password').value;
         const submittedToken = registerForm.querySelector('input[name="csrf_token"]').value;
-
+    
         if (submittedToken !== csrfToken) {
             showError('Invalid form submission. Please try again.');
             csrfToken = generateCSRFToken();
             return;
         }
-
+    
         if (!newUsername || !newPassword || !confirmPassword) {
             showError('Please fill in all fields.');
             return;
         }
-
+    
         if (!isPasswordStrong(newPassword)) {
             showError('Password must be at least 8 characters long and contain uppercase, lowercase, number, and special character.');
             return;
         }
-
+    
         if (newPassword !== confirmPassword) {
             showError('Passwords do not match.');
             return;
         }
-
+    
         if (users.some(u => u.username === newUsername)) {
             showError('Username already exists.');
             return;
         }
-
+    
         users.push({ username: newUsername, password: hashPassword(newPassword) });
         localStorage.setItem('users', JSON.stringify(users));
-        showError('Registration successful. Please log in.', 'success');
+        
+        // Clear the form
         registerForm.reset();
+    
+        // Hide register form and show login form
+        registerFormDiv.style.display = 'none';
+        loginFormDiv.style.display = 'block';
+    
+        // Update the toggle button text
+        toggleRegisterBtn.textContent = 'Create an account';
+    
+        // Show success message
+        showError('Registration successful. Please log in.', 'success');
+    
+        // Optional: Clear success message after 3 seconds
+        setTimeout(() => {
+            const errorMessage = document.getElementById('error-message');
+            if (errorMessage) {
+                errorMessage.style.display = 'none';
+            }
+        }, 3000);
     });
-
+    
     logoutBtn.addEventListener('click', () => {
         localStorage.removeItem('loggedInUser');
         sessionStorage.removeItem('loggedInUser');
