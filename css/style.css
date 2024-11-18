@@ -603,3 +603,14 @@ button:hover {
     color: white;
 }
 
+#correct-questions {
+    color: #008000;
+}
+
+#wrong-questions {
+    color: red;
+}
+
+.fa-solid {
+    color: #007bff;
+}
