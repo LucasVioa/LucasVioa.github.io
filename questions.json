@@ -2030,6 +2030,25 @@
             "correctAnswer": 0,
             "explanation": "A parábola abre para cima (a > 0), portanto tem um mínimo. Calculando o vértice, o valor mínimo é 1.",
             "tags": ["matemática", "função quadrática", "gráfico"]
-        }   
+        }
+           
+    ],
+    "geoplana": [
+        {
+            "id": 1,
+            "question": "Classifique em verdadeiro (V) ou falso (F):<br><br><b>I.</b> Por um ponto passam infinitas retas.<br><b>II.</b> Por dois pontos distintos passa uma reta.<br><b>III.</b> Uma reta contém dois pontos distintos.<br><b>IV.</b> Dois pontos distintos determinam uma e uma só reta.<br><b>V.</b> Por três pontos dados passa uma só reta.",            
+            "questionImage": "",
+            "optionImages": ["", "", "", "",""],
+            "options": [
+                "VFVF",
+                "FFFF",
+                "VVFF",
+                "VVVV",
+                "VVVF"
+            ],
+            "correctAnswer": 4,
+            "explanation": "",
+            "tags": ["", "", ""]
+        }
     ]
 }
