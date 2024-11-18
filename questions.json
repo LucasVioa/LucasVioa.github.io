@@ -749,7 +749,1103 @@
             "correctAnswer": 1,
             "explanation": "A alternativa correta é a letra B, conforme o Art. 71, caput, que estabelece o Congresso Nacional como responsável pelo controle externo, com auxílio do TCU.",
             "tags": ["direito constitucional", "controle externo", "Art. 71"]
-        }             
+        },
+        {
+            "id": 51,
+            "question": "Conforme a Constituição Federal, a desapropriação de imóveis urbanos ocorre prioritariamente por:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Interesse público, com indenização prévia e justa em dinheiro.",
+                "Falta de pagamento de impostos pelo proprietário.",
+                "Interesse da União, sem necessidade de indenização prévia.",
+                "Interesse social, com pagamento em títulos da dívida pública."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, conforme o Art. 182, §4º, que permite a desapropriação para fins de reforma urbana, mediante pagamento em títulos da dívida pública.",
+            "tags": ["direito constitucional", "desapropriação", "Art. 182"]
+        },
+        {
+            "id": 52,
+            "question": "Os direitos e garantias fundamentais previstos na Constituição são:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Inalienáveis e podem ser abolidos por emenda constitucional.",
+                "Cláusulas pétreas e, portanto, imodificáveis na essência.",
+                "Garantias exclusivas para cidadãos brasileiros.",
+                "Suspensos automaticamente em caso de intervenção federal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 60, §4º, que estabelece os direitos e garantias fundamentais como cláusulas pétreas.",
+            "tags": ["direito constitucional", "direitos fundamentais", "Art. 60"]
+        },
+        {
+            "id": 53,
+            "question": "De acordo com a Constituição, o Brasil adotará, em suas relações internacionais, o princípio de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Intervenção militar preventiva.",
+                "Repúdio ao terrorismo e ao racismo.",
+                "Prioridade para acordos econômicos bilaterais.",
+                "Domínio sobre territórios vizinhos em situação de conflito."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 4º, inciso VIII, que prevê o repúdio ao terrorismo e ao racismo como princípio das relações internacionais.",
+            "tags": ["direito constitucional", "relações internacionais", "Art. 4º"]
+        },
+        {
+            "id": 54,
+            "question": "Qual dos entes federativos tem competência para legislar sobre normas gerais de educação?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A União, exclusivamente.",
+                "Os Estados, exclusivamente.",
+                "Os Municípios, de forma suplementar.",
+                "A União, com possibilidade de suplementação pelos Estados e Municípios."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, conforme o Art. 24, inciso IX, que trata da competência legislativa concorrente para educação, sendo a União responsável por normas gerais.",
+            "tags": ["direito constitucional", "competência legislativa", "Art. 24"]
+        },
+        {
+            "id": 55,
+            "question": "De acordo com a Constituição, o direito de greve dos servidores públicos:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "É garantido sem qualquer regulamentação adicional.",
+                "É proibido para todas as categorias do serviço público.",
+                "É assegurado nos termos definidos em lei específica.",
+                "É permitido apenas para servidores de cargos administrativos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 37, inciso VII, que condiciona o exercício do direito de greve dos servidores à regulamentação por lei específica.",
+            "tags": ["direito constitucional", "direito de greve", "Art. 37"]
+        },
+        {
+            "id": 56,
+            "question": "Segundo a Constituição, a República Federativa do Brasil se organiza sob os seguintes fundamentos, EXCETO:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A soberania.",
+                "O pluralismo político.",
+                "A dignidade da pessoa humana.",
+                "A supremacia dos interesses econômicos."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, pois a supremacia dos interesses econômicos não é fundamento da República, conforme o Art. 1º da Constituição Federal.",
+            "tags": ["direito constitucional", "fundamentos da República", "Art. 1º"]
+        },
+        {
+            "id": 57,
+            "question": "Quais são os tipos de controle de constitucionalidade existentes no Brasil?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Concentrado e difuso.",
+                "Federal e estadual.",
+                "Administrativo e judiciário.",
+                "Legislativo e jurisdicional."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, pois o Brasil adota o controle de constitucionalidade concentrado (realizado pelo STF) e difuso (realizado por qualquer juiz ou tribunal).",
+            "tags": ["direito constitucional", "controle de constitucionalidade"]
+        },
+        {
+            "id": 58,
+            "question": "O poder constituinte originário é caracterizado por ser:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Limitado pelas normas constitucionais anteriores.",
+                "Soberano, autônomo e inicial.",
+                "Exercido exclusivamente pelo Poder Executivo.",
+                "Dependente de referendo popular para sua validade."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, pois o poder constituinte originário é autônomo e não está vinculado a normas pré-existentes.",
+            "tags": ["direito constitucional", "poder constituinte"]
+        },
+        {
+            "id": 59,
+            "question": "Segundo a Constituição, é competência privativa do Presidente da República:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Propor emendas constitucionais.",
+                "Decretar e executar intervenção federal.",
+                "Julgar governadores por crimes de responsabilidade.",
+                "Legislar sobre matéria penal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 84, inciso X, que prevê a competência privativa do Presidente para decretar e executar intervenção federal.",
+            "tags": ["direito constitucional", "competência do Presidente", "Art. 84"]
+        },
+        {
+            "id": 60,
+            "question": "A função principal das Comissões Parlamentares de Inquérito (CPIs), segundo a Constituição, é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Julgar autoridades por crimes de responsabilidade.",
+                "Criar leis sobre temas investigados.",
+                "Apurar fatos determinados com prazo certo.",
+                "Declarar a inconstitucionalidade de atos administrativos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 58, §3º, que atribui às CPIs a função de investigar fatos determinados por tempo certo.",
+            "tags": ["direito constitucional", "CPIs", "Art. 58"]
+        },
+        {
+            "id": 61,
+            "question": "Segundo a Constituição Federal, a quem cabe a competência para legislar sobre direito penal?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Aos Estados, exclusivamente.",
+                "Aos Municípios, de forma concorrente com a União.",
+                "À União, de forma privativa.",
+                "Ao Distrito Federal, em conjunto com os Estados."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 22, inciso I, que atribui à União a competência privativa para legislar sobre direito penal.",
+            "tags": ["direito constitucional", "competências legislativas", "Art. 22"]
+        },
+        {
+            "id": 62,
+            "question": "Qual princípio, expresso na Constituição Federal, rege a administração pública e proíbe o favorecimento pessoal?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Legalidade.",
+                "Impessoalidade.",
+                "Eficiência.",
+                "Moralidade."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 37, caput, que estabelece a impessoalidade como um dos princípios da administração pública.",
+            "tags": ["direito constitucional", "administração pública", "Art. 37"]
+        },
+        {
+            "id": 63,
+            "question": "A competência legislativa concorrente entre a União, os Estados e o Distrito Federal abrange:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Direitos tributários, financeiros e penais.",
+                "Direito eleitoral e político.",
+                "Direitos trabalhistas e previdenciários.",
+                "Direito ambiental e proteção ao patrimônio cultural."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, conforme o Art. 24, que prevê a competência legislativa concorrente em matérias como direito ambiental e patrimônio cultural.",
+            "tags": ["direito constitucional", "competência legislativa", "Art. 24"]
+        },
+        {
+            "id": 64,
+            "question": "No Brasil, o processo legislativo para a edição de medidas provisórias é regulamentado por qual artigo da Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Art. 59.",
+                "Art. 60.",
+                "Art. 62.",
+                "Art. 66."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 62, que regula a edição e tramitação de medidas provisórias.",
+            "tags": ["direito constitucional", "processo legislativo", "Art. 62"]
+        },
+        {
+            "id": 65,
+            "question": "De acordo com a Constituição, as normas definidoras de direitos fundamentais:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Têm aplicação imediata.",
+                "Dependem de regulamentação infraconstitucional para produzir efeitos.",
+                "Podem ser revogadas por emenda constitucional.",
+                "São aplicáveis apenas a cidadãos brasileiros."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 5º, §1º, que assegura a aplicação imediata das normas definidoras de direitos fundamentais.",
+            "tags": ["direito constitucional", "direitos fundamentais", "Art. 5º"]
+        },
+        {
+            "id": 66,
+            "question": "Segundo a Constituição, o habeas corpus é cabível para:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Garantir o acesso à saúde pública.",
+                "Proteger a liberdade de locomoção contra ilegalidade ou abuso de poder.",
+                "Impedir a cobrança de tributos indevidos.",
+                "Garantir o cumprimento de contratos civis."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso LXVIII, que prevê o habeas corpus para proteger a liberdade de locomoção.",
+            "tags": ["direito constitucional", "habeas corpus", "Art. 5º"]
+        },
+        {
+            "id": 67,
+            "question": "Qual é o prazo máximo que o Presidente da República tem para sancionar ou vetar um projeto de lei?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "5 dias úteis.",
+                "10 dias corridos.",
+                "15 dias úteis.",
+                "15 dias corridos."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, conforme o Art. 66, §1º, que prevê o prazo máximo de 15 dias corridos para sanção ou veto do projeto.",
+            "tags": ["direito constitucional", "processo legislativo", "Art. 66"]
+        },
+        {
+            "id": 68,
+            "question": "A Constituição prevê que a União, os Estados, o Distrito Federal e os Municípios devem atuar de forma integrada no sistema:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "De Defesa Nacional.",
+                "Único de Saúde (SUS).",
+                "De Segurança Pública.",
+                "De Proteção Ambiental."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 198, que estabelece o Sistema Único de Saúde (SUS) com atuação integrada entre os entes federativos.",
+            "tags": ["direito constitucional", "saúde pública", "Art. 198"]
+        },
+        {
+            "id": 69,
+            "question": "No que se refere aos Tribunais Regionais Federais, a Constituição estabelece que:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Sejam órgãos superiores ao Supremo Tribunal Federal.",
+                "Têm competência para julgar causas de interesse local dos municípios.",
+                "Compõem a Justiça Federal de segunda instância.",
+                "São responsáveis pela edição de medidas provisórias."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 108, que define os Tribunais Regionais Federais como órgãos da Justiça Federal de segunda instância.",
+            "tags": ["direito constitucional", "justiça federal", "Art. 108"]
+        },
+        {
+            "id": 70,
+            "question": "Segundo a Constituição, o Ministério Público tem por função essencial:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Proteger os interesses do Poder Executivo.",
+                "Promover a defesa dos direitos sociais e individuais indisponíveis.",
+                "Legislar sobre matérias de segurança pública.",
+                "Julgar ações de improbidade administrativa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 127, que estabelece a defesa dos direitos sociais e individuais indisponíveis como função essencial do Ministério Público.",
+            "tags": ["direito constitucional", "Ministério Público", "Art. 127"]
+        },
+        {
+            "id": 71,
+            "question": "De acordo com a Constituição Federal, qual é o órgão máximo do Poder Judiciário brasileiro?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Superior Tribunal de Justiça.",
+                "Supremo Tribunal Federal.",
+                "Tribunal de Justiça.",
+                "Tribunal Regional Federal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 102, que define o Supremo Tribunal Federal como o órgão máximo do Poder Judiciário.",
+            "tags": ["direito constitucional", "Poder Judiciário", "Art. 102"]
+        },
+        {
+            "id": 72,
+            "question": "Qual é a principal finalidade do processo de extradição, conforme a Constituição Federal?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Garantir a soberania nacional.",
+                "Entregar uma pessoa acusada de crime a outro país para julgamento.",
+                "Preservar a liberdade de locomoção de estrangeiros no Brasil.",
+                "Proteger direitos humanos de acusados no exterior."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso LI, que regula a extradição de acordo com os tratados e a soberania nacional.",
+            "tags": ["direito constitucional", "extradição", "Art. 5º"]
+        },
+        {
+            "id": 73,
+            "question": "Qual é o quórum necessário para aprovar uma emenda constitucional no Congresso Nacional?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Maioria simples em dois turnos.",
+                "Maioria absoluta em um único turno.",
+                "Três quintos dos votos em dois turnos.",
+                "Dois terços dos votos em dois turnos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 60, que exige três quintos dos votos em dois turnos em cada Casa do Congresso Nacional para aprovar uma emenda constitucional.",
+            "tags": ["direito constitucional", "emenda constitucional", "Art. 60"]
+        },
+        {
+            "id": 74,
+            "question": "De acordo com a Constituição, é vedada a acumulação de cargos públicos, exceto quando houver:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Compatibilidade de horários e o cargo for técnico ou científico.",
+                "Autorização expressa do Presidente da República.",
+                "Maioria absoluta na aprovação pelo Senado.",
+                "Concurso público para ambos os cargos."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 37, inciso XVI, que permite a acumulação em caso de compatibilidade de horários e se os cargos forem acumuláveis por lei.",
+            "tags": ["direito constitucional", "acumulação de cargos", "Art. 37"]
+        },
+        {
+            "id": 75,
+            "question": "Conforme a Constituição, o Congresso Nacional pode convocar plebiscitos para tratar de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Matérias de segurança pública.",
+                "Questões de relevante interesse nacional.",
+                "Mudanças no regimento interno da Câmara dos Deputados.",
+                "Assuntos de competência exclusiva do Poder Executivo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 49, inciso XV, que permite ao Congresso Nacional autorizar plebiscitos em questões de relevante interesse nacional.",
+            "tags": ["direito constitucional", "plebiscitos", "Art. 49"]
+        },
+        {
+            "id": 76,
+            "question": "O princípio da irretroatividade da lei penal mais gravosa está relacionado a qual direito fundamental?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Direito à vida.",
+                "Direito à liberdade.",
+                "Direito à segurança jurídica.",
+                "Direito à propriedade."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 5º, inciso XL, que assegura a irretroatividade de lei penal mais gravosa como garantia de segurança jurídica.",
+            "tags": ["direito constitucional", "irretroatividade", "Art. 5º"]
+        },
+        {
+            "id": 77,
+            "question": "Qual dos direitos abaixo NÃO é absoluto, segundo a Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Direito à vida.",
+                "Direito à liberdade de expressão.",
+                "Direito à inviolabilidade domiciliar.",
+                "Direito à propriedade."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, pois o direito à propriedade pode ser relativizado para atender sua função social, conforme o Art. 5º, inciso XXIII.",
+            "tags": ["direito constitucional", "direitos fundamentais", "Art. 5º"]
+        },
+        {
+            "id": 78,
+            "question": "A Constituição estabelece que o controle interno dos Poderes Executivo, Legislativo e Judiciário será exercido por:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Tribunais de Contas.",
+                "Órgãos próprios de cada Poder.",
+                "O Ministério Público.",
+                "A Controladoria-Geral da União."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 74, que determina o controle interno realizado pelos órgãos próprios de cada Poder.",
+            "tags": ["direito constitucional", "controle interno", "Art. 74"]
+        },
+        {
+            "id": 79,
+            "question": "Segundo a Constituição, os partidos políticos devem:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Ter caráter nacional.",
+                "Representar apenas interesses locais.",
+                "Ter filiação obrigatória ao Congresso Nacional.",
+                "Fazer parte obrigatória do Poder Executivo."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 17, inciso I, que exige caráter nacional para os partidos políticos.",
+            "tags": ["direito constitucional", "partidos políticos", "Art. 17"]
+        },
+        {
+            "id": 80,
+            "question": "O orçamento público anual, de iniciativa do Presidente da República, é disciplinado pela Constituição em qual artigo?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Art. 165.",
+                "Art. 168.",
+                "Art. 170.",
+                "Art. 172."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 165, que disciplina a elaboração do orçamento público anual.",
+            "tags": ["direito constitucional", "orçamento público", "Art. 165"]
+        },
+        {
+            "id": 81,
+            "question": "Segundo a Constituição, o Distrito Federal acumula competências legislativas dos:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Estados e Municípios.",
+                "Estados e União.",
+                "Municípios e Tribunais Regionais.",
+                "Municípios e Congresso Nacional."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 32, que estabelece que o Distrito Federal acumula competências dos Estados e Municípios.",
+            "tags": ["direito constitucional", "Distrito Federal", "Art. 32"]
+        },
+        {
+            "id": 82,
+            "question": "Conforme a Constituição, é função essencial à Justiça:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "O Poder Executivo.",
+                "O Tribunal Superior Eleitoral.",
+                "O Ministério Público.",
+                "O Supremo Tribunal Federal."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 127, que estabelece o Ministério Público como função essencial à Justiça.",
+            "tags": ["direito constitucional", "função essencial à Justiça", "Art. 127"]
+        },
+        {
+            "id": 83,
+            "question": "Conforme a Constituição Federal, os bens imóveis pertencentes à União incluem:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Apenas as terras devolutas dentro dos Estados.",
+                "Terras devolutas indispensáveis à defesa das fronteiras, das fortificações e das construções militares.",
+                "Todas as propriedades rurais do país.",
+                "Imóveis registrados em nome de cidadãos brasileiros naturalizados."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 20, inciso II, que inclui como bens da União as terras devolutas necessárias à defesa nacional.",
+            "tags": ["direito constitucional", "bens da União", "Art. 20"]
+        },
+        {
+            "id": 84,
+            "question": "Qual é o órgão responsável por processar e julgar prefeitos nos crimes comuns e de responsabilidade?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Supremo Tribunal Federal.",
+                "Tribunal de Justiça do Estado.",
+                "Superior Tribunal de Justiça.",
+                "Câmara Municipal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 29, inciso X, que prevê que prefeitos são julgados pelo Tribunal de Justiça do respectivo Estado nos crimes comuns e de responsabilidade.",
+            "tags": ["direito constitucional", "competência jurisdicional", "Art. 29"]
+        },
+        {
+            "id": 85,
+            "question": "Segundo a Constituição, a imunidade parlamentar protege deputados e senadores:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "De qualquer processo judicial durante o exercício do mandato.",
+                "Apenas por suas opiniões, palavras e votos no exercício do mandato.",
+                "De crimes cometidos antes do início do mandato.",
+                "De investigações criminais conduzidas pelo Ministério Público."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 53, que garante imunidade por opiniões, palavras e votos no exercício do mandato.",
+            "tags": ["direito constitucional", "imunidade parlamentar", "Art. 53"]
+        },
+        {
+            "id": 86,
+            "question": "O direito à inviolabilidade de correspondência é garantido na Constituição, salvo em caso de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Interesse público.",
+                "Ordem judicial para fins de investigação criminal ou instrução processual penal.",
+                "Ato administrativo fundamentado.",
+                "Solicitação do Ministério Público."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso XII, que permite a violação da correspondência apenas por ordem judicial em casos de investigação criminal ou instrução processual.",
+            "tags": ["direito constitucional", "inviolabilidade de correspondência", "Art. 5º"]
+        },
+        {
+            "id": 87,
+            "question": "Conforme a Constituição, é correto afirmar que a aposentadoria compulsória ocorre:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Quando o servidor atinge 70 anos de idade.",
+                "Quando o servidor atinge 75 anos de idade.",
+                "Quando o servidor é considerado inapto para o trabalho.",
+                "Apenas mediante decisão do Tribunal de Contas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme a Emenda Constitucional nº 88/2015, que fixou a idade de aposentadoria compulsória em 75 anos.",
+            "tags": ["direito constitucional", "aposentadoria compulsória", "Emenda 88"]
+        },
+        {
+            "id": 88,
+            "question": "O habeas data, previsto na Constituição, tem como objetivo:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Garantir a liberdade de locomoção.",
+                "Garantir o acesso a informações pessoais e retificar dados incorretos.",
+                "Permitir a impugnação de atos normativos inconstitucionais.",
+                "Proteger o sigilo bancário de indivíduos investigados."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso LXXII, que regula o habeas data para acesso e retificação de informações pessoais.",
+            "tags": ["direito constitucional", "habeas data", "Art. 5º"]
+        },
+        {
+            "id": 89,
+            "question": "Os direitos dos trabalhadores urbanos e rurais são garantidos pela Constituição, exceto:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "A proteção contra despedida arbitrária.",
+                "A remuneração do trabalho noturno superior ao diurno.",
+                "A garantia de emprego após 6 meses de trabalho.",
+                "A participação nos lucros ou resultados da empresa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, pois a Constituição não garante estabilidade automática após 6 meses de trabalho, mas sim após o período de experiência.",
+            "tags": ["direito constitucional", "direitos trabalhistas", "Art. 7º"]
+        },
+        {
+            "id": 90,
+            "question": "Segundo a Constituição, as coligações partidárias são permitidas:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Para eleições proporcionais e majoritárias.",
+                "Apenas para eleições majoritárias.",
+                "Somente em âmbito municipal.",
+                "Com aprovação prévia do Congresso Nacional."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme a Emenda Constitucional nº 97/2017, que restringiu as coligações às eleições majoritárias.",
+            "tags": ["direito constitucional", "coligações partidárias", "Emenda 97"]
+        },
+        {
+            "id": 91,
+            "question": "O processo de impeachment do Presidente da República é regulado pela Constituição em qual artigo?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Art. 49.",
+                "Art. 52.",
+                "Art. 86.",
+                "Art. 102."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 86, que regula o processo de impeachment do Presidente da República.",
+            "tags": ["direito constitucional", "impeachment", "Art. 86"]
+        },
+        {
+            "id": 92,
+            "question": "Conforme a Constituição, o alistamento eleitoral é facultativo para:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Maiores de 18 anos.",
+                "Idosos com mais de 60 anos.",
+                "Analfabetos e jovens de 16 e 17 anos.",
+                "Apenas cidadãos estrangeiros naturalizados."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 14, §1º, que torna o alistamento eleitoral facultativo para analfabetos, maiores de 70 anos e jovens de 16 e 17 anos.",
+            "tags": ["direito constitucional", "alistamento eleitoral", "Art. 14"]
+        },
+        {
+            "id": 93,
+            "question": "De acordo com a Constituição Federal, os tratados internacionais de direitos humanos aprovados pelo Congresso Nacional em dois turnos, por três quintos dos votos, possuem status de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Lei ordinária.",
+                "Lei complementar.",
+                "Norma constitucional.",
+                "Decreto legislativo."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 5º, §3º, que equipara esses tratados a emendas constitucionais.",
+            "tags": ["direito constitucional", "tratados internacionais", "Art. 5º"]
+        },
+        {
+            "id": 94,
+            "question": "Qual dos direitos abaixo é assegurado aos trabalhadores domésticos pela Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Adicional de periculosidade.",
+                "Redução de jornada para 30 horas semanais.",
+                "Garantia de salário mínimo.",
+                "Estabilidade após a gravidez."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 7º, inciso IV, que assegura o salário mínimo a todos os trabalhadores, incluindo os domésticos.",
+            "tags": ["direito constitucional", "trabalhadores domésticos", "Art. 7º"]
+        },
+        {
+            "id": 95,
+            "question": "Segundo a Constituição Federal, a educação básica obrigatória e gratuita abrange:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Somente o ensino fundamental.",
+                "A educação infantil e o ensino fundamental.",
+                "A educação infantil, ensino fundamental e ensino médio.",
+                "Todos os níveis de ensino, sem exceção."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 208, inciso I, que garante educação básica obrigatória e gratuita dos 4 aos 17 anos.",
+            "tags": ["direito constitucional", "educação", "Art. 208"]
+        },
+        {
+            "id": 96,
+            "question": "Qual princípio constitucional determina que ninguém será submetido a tortura ou tratamento desumano?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Princípio da igualdade.",
+                "Princípio da dignidade da pessoa humana.",
+                "Princípio da legalidade.",
+                "Princípio da segurança jurídica."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso III, que veda a tortura e tratamentos desumanos.",
+            "tags": ["direito constitucional", "dignidade humana", "Art. 5º"]
+        },
+        {
+            "id": 97,
+            "question": "A concessão de habeas corpus depende de qual situação?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Cometimento de crime de menor potencial ofensivo.",
+                "Necessidade de defesa contra ameaça à liberdade de locomoção.",
+                "Estar relacionado a direito patrimonial.",
+                "Apenas em casos de restrição de direitos políticos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso LXVIII, que prevê o habeas corpus para proteger a liberdade de locomoção.",
+            "tags": ["direito constitucional", "habeas corpus", "Art. 5º"]
+        },
+        {
+            "id": 98,
+            "question": "Conforme a Constituição, é garantida a liberdade de associação, exceto para:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Fins recreativos.",
+                "Fins econômicos.",
+                "Fins ilícitos.",
+                "Fins políticos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 5º, inciso XVII, que veda associações com finalidades ilícitas.",
+            "tags": ["direito constitucional", "liberdade de associação", "Art. 5º"]
+        },
+        {
+            "id": 99,
+            "question": "A Constituição Federal estabelece que a soberania popular será exercida por meio de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Plebiscito, referendo e iniciativa popular.",
+                "Eleição direta e indireta.",
+                "Apenas por referendo.",
+                "Voto facultativo em todas as eleições."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 14, que regula os instrumentos de exercício da soberania popular.",
+            "tags": ["direito constitucional", "soberania popular", "Art. 14"]
+        },
+        {
+            "id": 100,
+            "question": "Qual órgão possui competência para julgar Governadores de Estado por crimes de responsabilidade?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Supremo Tribunal Federal.",
+                "Superior Tribunal de Justiça.",
+                "Assembleia Legislativa do respectivo Estado.",
+                "Congresso Nacional."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 105, inciso I, alínea 'a', que atribui ao STJ competência para julgar Governadores por crimes de responsabilidade.",
+            "tags": ["direito constitucional", "competência jurisdicional", "Art. 105"]
+        },
+        {
+            "id": 101,
+            "question": "O estado de defesa pode ser decretado em caso de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Conflitos armados entre Estados.",
+                "Grave instabilidade institucional.",
+                "Descumprimento de cláusulas pétreas.",
+                "Rebeliões no sistema prisional."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 136, que permite a decretação do estado de defesa em casos de grave instabilidade institucional.",
+            "tags": ["direito constitucional", "estado de defesa", "Art. 136"]
+        },
+        {
+            "id": 102,
+            "question": "De acordo com a Constituição, o Sistema Tributário Nacional é regido pelo princípio da:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Legalidade.",
+                "Moralidade.",
+                "Publicidade.",
+                "Eficiência."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 150, inciso I, que proíbe a exigência de tributos sem a devida previsão legal.",
+            "tags": ["direito constitucional", "sistema tributário", "Art. 150"]
+        },
+        {
+            "id": 103,
+            "question": "Conforme a Constituição Federal, a função social da propriedade é cumprida quando:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Ela é explorada economicamente pelo proprietário.",
+                "Atende as exigências fundamentais de ordenação econômica e ambiental.",
+                "Está registrada em nome de cidadão brasileiro nato.",
+                "Está em área urbana ou rural."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso XXIII, e o Art. 186, que definem as condições para o cumprimento da função social da propriedade.",
+            "tags": ["direito constitucional", "função social da propriedade", "Art. 5º"]
+        },
+        {
+            "id": 104,
+            "question": "Conforme a Constituição Federal, qual é o prazo de vigência de uma medida provisória, incluindo sua prorrogação, se não for convertida em lei?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "30 dias.",
+                "60 dias.",
+                "120 dias.",
+                "180 dias."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 62, §3º, que prevê um prazo inicial de 60 dias, prorrogáveis por mais 60 dias.",
+            "tags": ["direito constitucional", "medidas provisórias", "Art. 62"]
+        },
+        {
+            "id": 105,
+            "question": "A Constituição Federal assegura a todos o direito à liberdade de expressão, vedado:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "O anonimato.",
+                "A crítica ao governo.",
+                "O uso de pseudônimos.",
+                "A manifestação de ideias controversas."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 5º, inciso IV, que assegura a liberdade de expressão, mas proíbe o anonimato.",
+            "tags": ["direito constitucional", "liberdade de expressão", "Art. 5º"]
+        },
+        {
+            "id": 106,
+            "question": "De acordo com a Constituição, a remuneração dos servidores públicos é:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Definida por lei complementar.",
+                "Fixada por decreto do chefe do Poder Executivo.",
+                "Estabelecida em lei, observando a irredutibilidade de vencimentos.",
+                "Livremente negociada entre o servidor e o governo."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 37, inciso XV, que determina que os vencimentos dos servidores públicos são fixados em lei, observada a irredutibilidade.",
+            "tags": ["direito constitucional", "servidores públicos", "Art. 37"]
+        },
+        {
+            "id": 107,
+            "question": "O que caracteriza a competência exclusiva da União para legislar, conforme a Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Matérias de interesse nacional, como direito penal e eleitoral.",
+                "Questões ambientais e patrimoniais locais.",
+                "Regulamentação de serviços municipais.",
+                "Legislação suplementar sobre tributos estaduais."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 22, que estabelece a competência exclusiva da União para legislar sobre matérias de interesse nacional.",
+            "tags": ["direito constitucional", "competência legislativa", "Art. 22"]
+        },
+        {
+            "id": 108,
+            "question": "A Constituição determina que a União, os Estados, o Distrito Federal e os Municípios têm competência comum para:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Legislar sobre segurança pública.",
+                "Promover a proteção do meio ambiente.",
+                "Decretar estado de defesa.",
+                "Emitir moeda."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 23, inciso VI, que estabelece a competência comum para proteção do meio ambiente.",
+            "tags": ["direito constitucional", "competência comum", "Art. 23"]
+        },
+        {
+            "id": 109,
+            "question": "Qual é o objetivo principal da ação direta de inconstitucionalidade (ADI)?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Declarar a constitucionalidade de uma norma.",
+                "Abolir normas constitucionais obsoletas.",
+                "Invalidar normas contrárias à Constituição.",
+                "Propor emendas constitucionais."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme a competência do Supremo Tribunal Federal no Art. 102, que inclui a análise de normas incompatíveis com a Constituição.",
+            "tags": ["direito constitucional", "ação direta de inconstitucionalidade", "Art. 102"]
+        },
+        {
+            "id": 110,
+            "question": "A Constituição Federal assegura a proteção à maternidade e à infância como:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Um direito trabalhista exclusivo.",
+                "Um direito social fundamental.",
+                "Uma cláusula programática não obrigatória.",
+                "Uma prerrogativa exclusiva do setor privado."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 6º, que inclui a proteção à maternidade e à infância como direitos sociais fundamentais.",
+            "tags": ["direito constitucional", "direitos sociais", "Art. 6º"]
+        },
+        {
+            "id": 111,
+            "question": "Segundo a Constituição, a duração máxima da jornada de trabalho regular é de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "6 horas diárias.",
+                "8 horas diárias e 44 horas semanais.",
+                "10 horas diárias, com limite de 50 horas semanais.",
+                "12 horas diárias, sem limite semanal."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 7º, inciso XIII, que fixa a jornada máxima em 8 horas diárias e 44 horas semanais.",
+            "tags": ["direito constitucional", "jornada de trabalho", "Art. 7º"]
+        },
+        {
+            "id": 112,
+            "question": "O direito de propriedade pode ser limitado pela Constituição quando:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Contraria normas tributárias.",
+                "Não cumpre sua função social.",
+                "É utilizada para exploração econômica.",
+                "Está em zona rural."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso XXIII, que condiciona a propriedade ao cumprimento de sua função social.",
+            "tags": ["direito constitucional", "função social da propriedade", "Art. 5º"]
+        },
+        {
+            "id": 113,
+            "question": "A quem cabe a competência para julgar ações contra o Presidente da República por crimes comuns?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Ao Senado Federal.",
+                "À Câmara dos Deputados.",
+                "Ao Supremo Tribunal Federal.",
+                "Ao Superior Tribunal de Justiça."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 86, que determina que crimes comuns do Presidente sejam julgados pelo STF, com autorização da Câmara.",
+            "tags": ["direito constitucional", "crimes comuns", "Art. 86"]
+        },
+        {
+            "id": 114,
+            "question": "Qual é a idade mínima exigida pela Constituição para que um cidadão se candidate ao cargo de Senador?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "21 anos.",
+                "25 anos.",
+                "30 anos.",
+                "35 anos."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, conforme o Art. 14, §3º, inciso VI, alínea 'a', que exige idade mínima de 35 anos para o cargo de Senador.",
+            "tags": ["direito constitucional", "direitos políticos", "Art. 14"]
+        },
+        {
+            "id": 115,
+            "question": "Conforme a Constituição, a aprovação de estado de sítio pelo Congresso Nacional depende de:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Decreto presidencial prévio e consulta ao Supremo Tribunal Federal.",
+                "Autorização por maioria absoluta dos membros do Congresso.",
+                "Aprovação por maioria qualificada dos membros do Congresso Nacional.",
+                "Proposta conjunta do Presidente da República e do Senado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 137, que prevê a necessidade de aprovação por maioria qualificada no Congresso Nacional para a decretação do estado de sítio.",
+            "tags": ["direito constitucional", "estado de sítio", "Art. 137"]
+        },
+        {
+            "id": 116,
+            "question": "A Constituição de 1988 estabelece que o SUS (Sistema Único de Saúde) será financiado:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Apenas pela União.",
+                "Por contribuições dos usuários dos serviços de saúde.",
+                "Pela União, Estados, Distrito Federal e Municípios.",
+                "Exclusivamente por impostos federais."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 198, §1º, que determina o financiamento tripartite do SUS.",
+            "tags": ["direito constitucional", "saúde pública", "Art. 198"]
+        },
+        {
+            "id": 117,
+            "question": "Qual é o órgão responsável por processar e julgar ações contra Ministros de Estado nos crimes de responsabilidade?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "O Supremo Tribunal Federal.",
+                "O Superior Tribunal de Justiça.",
+                "O Congresso Nacional.",
+                "O Senado Federal."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A alternativa correta é a letra A, conforme o Art. 102, inciso I, alínea 'c', que atribui ao STF competência para processar Ministros de Estado por crimes de responsabilidade.",
+            "tags": ["direito constitucional", "competência jurisdicional", "Art. 102"]
+        },
+        {
+            "id": 118,
+            "question": "Qual dos princípios abaixo NÃO está expresso na Constituição como princípio da ordem econômica?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Defesa do consumidor.",
+                "Função social da propriedade.",
+                "Livre concorrência.",
+                "Supremacia do interesse público sobre o privado."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A alternativa correta é a letra D, pois a supremacia do interesse público não está expressamente listada no Art. 170 como princípio da ordem econômica.",
+            "tags": ["direito constitucional", "ordem econômica", "Art. 170"]
+        },
+        {
+            "id": 119,
+            "question": "De acordo com a Constituição, o direito de reunião pacífica em locais abertos ao público é garantido, desde que:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Haja autorização prévia do Poder Público.",
+                "Não frustre outra reunião anteriormente convocada para o mesmo local.",
+                "Seja organizada exclusivamente por entidades registradas.",
+                "Não seja realizada durante o período noturno."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 5º, inciso XVI, que assegura o direito de reunião, desde que pacífica e sem frustrar reuniões previamente convocadas.",
+            "tags": ["direito constitucional", "direitos fundamentais", "Art. 5º"]
+        },
+        {
+            "id": 120,
+            "question": "Segundo a Constituição, o julgamento de crimes dolosos contra a vida é competência:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Dos Tribunais Regionais Federais.",
+                "Dos Conselhos de Justiça Militar.",
+                "Do Tribunal do Júri.",
+                "Do Supremo Tribunal Federal."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 5º, inciso XXXVIII, que estabelece a competência do Tribunal do Júri para julgar crimes dolosos contra a vida.",
+            "tags": ["direito constitucional", "Tribunal do Júri", "Art. 5º"]
+        },
+        {
+            "id": 121,
+            "question": "Quais são as funções institucionais do Ministério Público, conforme a Constituição?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Exercer o controle externo da administração pública e editar leis complementares.",
+                "Promover ações penais públicas e proteger interesses difusos e coletivos.",
+                "Julgamento de crimes de responsabilidade e exercício de defesa de acusados.",
+                "Elaborar projetos de lei orçamentária e editar normas gerais."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 129, que define as funções institucionais do Ministério Público.",
+            "tags": ["direito constitucional", "Ministério Público", "Art. 129"]
+        },
+        {
+            "id": 122,
+            "question": "Conforme a Constituição, a adoção no Brasil é regida pelo princípio da:",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "Soberania popular.",
+                "Irreversibilidade.",
+                "Igualdade de direitos entre os filhos biológicos e adotivos.",
+                "Gratuidade obrigatória."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A alternativa correta é a letra C, conforme o Art. 227, §6º, que assegura igualdade de direitos entre filhos biológicos e adotivos.",
+            "tags": ["direito constitucional", "adoção", "Art. 227"]
+        },
+        {
+            "id": 123,
+            "question": "Qual é o prazo máximo para o Congresso Nacional apreciar medidas provisórias?",
+            "questionImage": "",
+            "optionImages": ["", "", "", ""],
+            "options": [
+                "30 dias.",
+                "45 dias.",
+                "60 dias.",
+                "120 dias."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A alternativa correta é a letra B, conforme o Art. 62, §6º, que fixa o prazo de 45 dias para apreciação, sob pena de trancamento da pauta legislativa.",
+            "tags": ["direito constitucional", "medidas provisórias", "Art. 62"]
+        }                        
+                                            
     ],
     "direito_constitucional_concursos": [
         {
