@@ -524,9 +524,6 @@ ul li:hover {
     justify-content: center;
     flex-grow: 1;
     padding: 20px;
-    width: 700px; 
-    margin-left: auto;
-    margin-right: auto; 
 }
 
 .btnq:hover {
