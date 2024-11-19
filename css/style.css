@@ -453,7 +453,7 @@ ul li:hover {
     font-size: 3.2rem;
     text-decoration: none;
     text-transform: uppercase;
-    border-radius: 5px;
+    border-radius: 15px;
     transition: background-color 0.3s ease, transform 0.2s ease;
     margin: 15px;
     text-align: left;
