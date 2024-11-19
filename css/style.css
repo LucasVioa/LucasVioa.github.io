@@ -1,5 +1,34 @@
 @import url("/css/fonts.css");
 
+:root {
+    /* Light theme (default) */
+    --primary-bg: #ffffff;
+    --secondary-bg: #f4f4f4;
+    --primary-text: #333333;
+    --secondary-text: #666666;
+    --accent-color: #4CAF50;
+    --navbar-bg: #164b18;
+    --card-bg: #4CAF50;
+    --border-color: #ddd;
+    --header-bg: #3a8a3d;
+}
+
+[data-theme="dark"] {
+    /* Dark theme */
+    --primary-bg: #0a1929;
+    --secondary-bg: #132f4c;
+    --primary-text: #ffffff;
+    --secondary-text: #b2bac2;
+    --accent-color: #5bb981;
+    --navbar-bg: #132f4c;
+    --card-bg: #1a3b5d;
+    --border-color: #234d6f;
+    --header-bg: #1a3b5d;
+}
+
+
+
+
 /* Profile page styles */
 #profile-container {
     background: rgba(255, 255, 255, 0.95);
@@ -8,6 +37,7 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     max-width: 800px;
     margin: 0 auto;
+    color: #202020;
 }
 
 .profile-info {
@@ -118,7 +148,7 @@
 }
 
 #loginForm button, #registerForm button, #logout-btn {
-    background-color: #4CAF50;
+    background-color: var(--card-bg);
     color: white;
     padding: 12px;
     border: none;
@@ -129,7 +159,7 @@
 }
 
 #loginForm button:hover, #registerForm button:hover, #logout-btn:hover {
-    background-color: #45a049;
+    background-color: var(--card-bg);
 }
 
 #loginForm button:focus, #registerForm button:focus, #logout-btn:focus {
@@ -171,6 +201,7 @@
     padding: 10px 0;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     background-color: #164b18;
+    background-color: var(--navbar-bg);
 }
 
 .navbar ul {
@@ -219,6 +250,8 @@ body {
     flex-direction: column;
     min-height: 100vh;
     position: relative;
+    color: var(--primary-text);
+    background-color: var(--primary-bg);
 }
 
 /* Removed transition styles */
@@ -270,7 +303,8 @@ header {
     color: white;
     padding: 30px 20px;
     text-align: center;
-    margin-top: 10px;
+    background-color: var(--header-bg);
+    color: white;
 }
 
 .header h1 {
@@ -312,7 +346,11 @@ ul li:hover {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
+    border: 1px solid var(--border-color);
+    background-color: var(--card-bg);
+    color: var(--primary-text);
 }
+
 
 .option-circle {
     width: 30px;
@@ -400,7 +438,7 @@ ul li:hover {
 
 .btn {
     display: inline-block;
-    background-color: #4CAF50;
+    background-color: var(--card-bg);
     color: white;
     padding: 15px 30px;
     font-size: 1.2rem;
@@ -410,19 +448,75 @@ ul li:hover {
 }
 
 .btnq {
+    font-family: Oswald;
     display: inline-block;
-    background-color: #4CAF50;
-    color: white;
     padding: 15px 30px;
-    font-size: 1.2rem;
+    font-size: 3.2rem;
     text-decoration: none;
+    text-transform: uppercase;
     border-radius: 5px;
     transition: background-color 0.3s ease, transform 0.2s ease;
     margin: 15px;
-    text-align: center;
-    width: 275px;
-    height: 75px;
+    text-align: left;
+    width: 450px;
+    height: 350px;
+    background-color: var(--card-bg);
+    color: white;
 }
+
+.carousel {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.carousel-container {
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.carousel-track {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item {
+    flex: 0 0 auto;
+    margin: 0 10px;
+    min-width: 200px;
+}
+
+.carousel-button {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.5rem;
+    transition: background 0.3s;
+}
+
+.carousel-button:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.carousel-button.prev {
+    margin-right: 10px;
+}
+
+.carousel-button.next {
+    margin-left: 10px;
+}
+
 
 .geralbtn {
     display: flex;
@@ -436,12 +530,12 @@ ul li:hover {
 }
 
 .btnq:hover {
-    background-color: #45a049;
+    background-color: var(--card-bg);
     transform: scale(1.05);
 }
 
 .btn:hover {
-    background-color: #45a049;
+    background-color: var(--card-bg);
     transform: scale(1.05);
 }
 
@@ -616,4 +710,38 @@ button:hover {
 
 .fa-solid {
     color: #007bff;
+}
+
+.theme-toggle {
+    background: transparent;
+    border: none;
+    color: var(--primary-text);
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+}
+
+.theme-toggle:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.theme-toggle i {
+    font-size: 1.2rem;
+    transition: transform 0.3s ease;
+}
+
+[data-theme="dark"] .theme-toggle i {
+    transform: rotate(360deg);
+}
+
+* {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.subt {
+    font-size: 30px;
 }

@@ -7,6 +7,7 @@ let wrongAnswers = 0;
 let totalQuestionsAnswered = 0;
 let answerSubmitted = false;
 
+
 // // Load questions from JSON file
 // async function loadQuestions(category) {
 //     try {
