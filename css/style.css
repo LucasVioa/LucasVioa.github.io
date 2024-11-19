@@ -461,6 +461,7 @@ ul li:hover {
     height: 350px;
     background-color: var(--card-bg);
     color: white;
+    display: flex;
 }
 
 .carousel {
